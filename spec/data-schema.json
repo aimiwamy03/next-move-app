@@ -1,0 +1,177 @@
+{
+  "$comment": "ElevenLabs Agents > Analysis > Data collection. 25 items (non-enterprise plan limit is 25; checked Oct 24, 2026). Types allowed: string, boolean, integer, number. Each 'description' is the extraction prompt pasted into ElevenLabs. 'pdf' lists CF 285 field numbers; the real field name is 'CF 285  <n>' with TWO spaces. 'server' notes what the webhook does with it. Never add an SSN field.",
+  "form": "CF 285 (8/21) Application for CalFresh Benefits, forms/CF285_unlocked.pdf",
+  "items": [
+    {
+      "id": "full_name",
+      "type": "string",
+      "description": "Caller's full legal name as First Middle Last, exactly as they said or spelled it. Use the spelled version if they spelled it. Null if not given.",
+      "pdf": ["4 (First Middle Last)", "103 (Last, First MI)"],
+      "required_to_file": true
+    },
+    {
+      "id": "date_of_birth",
+      "type": "string",
+      "description": "Caller's date of birth as MM/DD/YYYY. Null if they skipped it.",
+      "pdf": ["105"]
+    },
+    {
+      "id": "county",
+      "type": "string",
+      "description": "California county where the caller lives or stays now, for example 'Sacramento'. County name only, no word 'County'.",
+      "pdf": [],
+      "server": "Routes the application. Shown on summary page with that county's CalFresh contact. Not a PDF field."
+    },
+    {
+      "id": "sleeping_situation",
+      "type": "string",
+      "description": "Where the caller sleeps now. One of: own_place, with_family_or_friends, transitional_or_sober_living, shelter, outside_or_vehicle, other.",
+      "pdf": ["20 homeless Yes if shelter or outside_or_vehicle", "21 homeless No otherwise"],
+      "server": "with_family_or_friends and other: leave 20/21 blank, helper asks."
+    },
+    {
+      "id": "home_address",
+      "type": "string",
+      "description": "Street address where the caller stays, as 'street | city | ZIP'. If no fixed address, write 'No fixed address' plus the city and a short place description they gave, for example 'No fixed address | Oakland | near 14th and Broadway'.",
+      "pdf": ["7 street or directions", "8 city", "9 state (always CA)", "10 ZIP"],
+      "required_to_file": true
+    },
+    {
+      "id": "mailing_address",
+      "type": "string",
+      "description": "Where the caller can get mail, as 'street | city | ZIP', if different from home_address. Write 'same' if the same. Write 'needs help' if they have nowhere to get mail.",
+      "pdf": ["11", "12", "13 (CA)", "14"]
+    },
+    {
+      "id": "phone_number",
+      "type": "string",
+      "description": "Best phone number for the county to reach the caller, 10 digits. If they said 'this number', copy {{system__caller_id}}. Null if they have no phone.",
+      "pdf": ["16 cell phone"]
+    },
+    {
+      "id": "ok_to_text",
+      "type": "boolean",
+      "description": "True only if the caller clearly said yes to getting texts at phone_number. False if no or not asked.",
+      "pdf": ["17 text OK checkbox"],
+      "server": "Gate for ALL SMS. False means no text is sent."
+    },
+    {
+      "id": "preferred_language",
+      "type": "string",
+      "description": "Language the caller prefers to read and speak if not English, for example 'Spanish'. Null if English.",
+      "pdf": ["22 read", "23 speak"]
+    },
+    {
+      "id": "household_json",
+      "type": "string",
+      "description": "JSON array of OTHER people the caller lives with. Each item: {\"name\": string, \"relationship\": string, \"dob\": \"MM/DD/YYYY\" or null, \"buys_and_cooks_together\": true/false, \"applying\": true/false/null, \"us_citizen\": \"yes\"/\"no\"/\"skip\"}. Use [] if the caller lives alone or only with people they do not share food with and did not name. Do not include the caller.",
+      "pdf": ["lines 2 to 5 for buys_and_cooks_together=true (see pdf-field-map.md)", "154 to 157 for false"]
+    },
+    {
+      "id": "earned_income_month",
+      "type": "number",
+      "description": "Total money from work (before taxes) the caller's food household got or expects THIS calendar month, in dollars. 0 if none. Null if unknown.",
+      "pdf": ["269 Yes / 270 No", "277 total gross this month"]
+    },
+    {
+      "id": "earned_income_details",
+      "type": "string",
+      "description": "Who works, employer name, hourly pay, hours per week, how often paid, and whether it will continue. Short plain text. Null if no work income.",
+      "pdf": ["271 who", "272 employer", "274 rate", "275 hours", "276 how often", "278/279 continue"]
+    },
+    {
+      "id": "other_income_month",
+      "type": "number",
+      "description": "Total money NOT from work the food household got or expects THIS month: family help, gifts, Social Security, SSI, unemployment, General Assistance, etc. Do not count cash already counted in cash_and_bank. 0 if none.",
+      "pdf": ["219 Yes / 220 No", "245 amount"]
+    },
+    {
+      "id": "other_income_details",
+      "type": "string",
+      "description": "For non-work money: who gets it, from where (for example 'my aunt', 'SSI', 'General Assistance'), how often, and if it will continue. Null if none.",
+      "pdf": ["243 who", "244 from where", "246 how often", "247/248 continue", "type checkbox 221/222/224/231/232/236/240"]
+    },
+    {
+      "id": "cash_and_bank",
+      "type": "number",
+      "description": "Total cash on hand plus money in any bank account or debit card for the food household right now, in dollars, including any release money still left. 0 if none.",
+      "pdf": ["490 Yes / 491 No", "499 cash on hand", "492 checking", "5010 worth"]
+    },
+    {
+      "id": "housing_cost_month",
+      "type": "number",
+      "description": "What the household pays per month for rent, mortgage, or shelter or program fees. 0 if they pay nothing.",
+      "pdf": ["393 any expenses", "395 rent Yes / 396 No", "397 who pays", "398 amount", "399 how often", "418 shelter cost Yes if in shelter"]
+    },
+    {
+      "id": "utilities",
+      "type": "string",
+      "description": "Comma-separated list of bills the household pays separately from rent: heating_cooling, phone, water_trash. Write 'none' if none. Leave null if not asked.",
+      "pdf": ["408/409 heating or cooling", "413/414 phone", "423/424 water, sewage, garbage"],
+      "server": "Since Nov 1, 2025 heating/cooling must be separate from rent for the utility allowance unless someone is 60+ or disabled (CDSS H.R. 1 FAQ)."
+    },
+    {
+      "id": "citizenship",
+      "type": "string",
+      "description": "Caller's own answer to 'Are you a U.S. citizen?'. One of: yes, no, skip. Never record immigration status details or document numbers.",
+      "pdf": ["107 Yes / 108 No (line 1)"],
+      "server": "'no' sets the immigration_check flag: summary says a helper and the county will go over it. Q6b/Q6c stay blank."
+    },
+    {
+      "id": "release_date",
+      "type": "string",
+      "description": "Date the caller came home from prison or jail, MM/DD/YYYY. If only approximate, write what they said, like 'about 2 weeks ago'. Null if not asked or skipped.",
+      "pdf": [],
+      "server": "Not on CF 285. Used for flags (Medi-Cal exit papers, parole reporting) and the helper summary."
+    },
+    {
+      "id": "has_cal_id",
+      "type": "string",
+      "description": "Does the caller have a California ID card or driver license now? One of: yes, no, unsure.",
+      "pdf": [],
+      "server": "'no' turns on the reduced-fee ID flag."
+    },
+    {
+      "id": "has_medi_cal",
+      "type": "string",
+      "description": "Does the caller already have Medi-Cal or Medi-Cal papers from release? One of: yes, no, unsure.",
+      "pdf": [],
+      "server": "'unsure' or 'no' turns on 'check your exit papers' flag."
+    },
+    {
+      "id": "has_ss_card",
+      "type": "string",
+      "description": "Does the caller have their Social Security card in hand? One of: yes, no, unsure. Do NOT record the number.",
+      "pdf": [],
+      "server": "Shown as a to-do item only. The number is never asked."
+    },
+    {
+      "id": "wants_medi_cal",
+      "type": "boolean",
+      "description": "True if the caller said yes to 'Do you want the county to check Medi-Cal too?'. False if no. Null if not asked.",
+      "pdf": ["552 Yes / 1011 No"]
+    },
+    {
+      "id": "ok_bfp_helper",
+      "type": "boolean",
+      "description": "True only if the caller said yes to a Boundless Freedom Project helper seeing their answers and calling them back.",
+      "pdf": [],
+      "server": "Gate for helper notification. False means only the caller gets the link."
+    },
+    {
+      "id": "call_outcome",
+      "type": "string",
+      "description": "One of: confirmed (caller heard the read-back and said it was right, with fixes made), cleared (caller asked to clear or delete answers), incomplete (call ended before read-back was confirmed), handoff (caller asked for a person and was transferred or given the number), crisis (caller mentioned wanting to hurt themselves or others, or immediate danger).",
+      "pdf": [],
+      "server": "cleared: store nothing, send nothing. crisis: store nothing unless also confirmed; no automated text about crisis. incomplete: store, text says 'partly done'. confirmed/handoff: store and text."
+    }
+  ],
+  "computed_server_side": {
+    "expedited_a": "earned_income_month + other_income_month < 150 AND cash_and_bank <= 100 -> 554 Yes else 553 No (null inputs -> leave blank)",
+    "expedited_b": "earned_income_month + other_income_month + cash_and_bank < housing_cost_month + utility_estimate -> 556 Yes. utility_estimate: use 0 unless utilities includes heating_cooling (then mark 'maybe' and let county apply its allowance). If result only flips with utilities, leave 555/556 blank and show 'county checks'.",
+    "expedited_migrant": "always 557 No (not asked)",
+    "q11_any_expense": "393 Yes if housing_cost_month > 0 or utilities not 'none'/null, else 393b No",
+    "household_size": "1 + count(household_json where buys_and_cooks_together)"
+  },
+  "never_collect": ["SSN or any part of it", "A-number or immigration document numbers", "CDCR number", "parole officer name", "conviction details", "answers to CF 285 Q17 to Q22 (applicant answers when signing)", "signature or date"]
+}

@@ -1,0 +1,54 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{width:390px;height:844px;background:#F4EFE6;font-family:'DM Sans',sans-serif;color:#2B2A26;overflow:hidden}
+.s{width:390px;height:844px;padding:18px 24px 28px;display:flex;flex-direction:column}
+.status{display:flex;justify-content:space-between;font-size:17px;font-weight:600;color:#35493B;height:20px}
+.status .b{font-family:'Fraunces',serif;font-weight:600}
+.top{display:flex;justify-content:space-between;align-items:center;margin-top:16px}
+.over{font-size:17px;letter-spacing:1px;font-weight:700;color:#8E4A2C}
+.back{font-size:17px;color:#35493B;font-weight:600;display:flex;align-items:center;gap:6px;min-height:44px}
+h1{font-family:'Fraunces',serif;font-weight:600;color:#35493B;font-size:32px;line-height:1.15;margin-top:8px}
+h2{font-family:'Fraunces',serif;font-weight:600;color:#35493B;font-size:22px;line-height:1.2}
+p,.body{font-size:17px;line-height:1.4}
+.muted{color:#5E5B53}
+.small{font-size:17px;line-height:1.35}
+.card{background:#FEFBF5;border-radius:12px;box-shadow:0 4px 18px rgba(53,73,59,.08);border:1px solid #ECE4D6}
+.bar{height:8px;background:#E3DCCF;border-radius:4px;overflow:hidden}
+.bar i{display:block;height:100%;background:#B66947;border-radius:4px}
+.bar.g i{background:#35493B}
+.tag{display:inline-flex;align-items:center;gap:8px;background:#E3E9DC;color:#35493B;font-weight:700;font-size:17px;padding:7px 12px;border-radius:8px}
+.tag .dot{width:10px;height:10px;border-radius:5px;background:#35493B}
+.tag.t{background:#F6E6DC;color:#8E4A2C}.tag.t .dot{background:#B66947}
+.btn{height:60px;border-radius:8px;background:#B66947;color:#fff;font-weight:700;font-size:19px;display:flex;align-items:center;justify-content:center;width:100%}
+.btn2{height:56px;border-radius:8px;background:#E3E9DC;color:#35493B;font-weight:700;font-size:17px;display:flex;align-items:center;justify-content:center;width:100%}
+.btn3{height:52px;border-radius:8px;border:1.5px solid #35493B;color:#35493B;font-weight:700;font-size:17px;display:flex;align-items:center;justify-content:center;width:100%;background:transparent}
+.num{width:32px;height:32px;border-radius:8px;background:#E3E9DC;color:#35493B;font-weight:700;font-size:17px;display:flex;align-items:center;justify-content:center;flex:none}
+.tabs{display:flex;gap:22px;border-bottom:1px solid #DCD3C3;margin-top:18px}
+.tabs div{font-size:17px;font-weight:600;color:#5E5B53;padding:10px 0 12px;min-height:44px}
+.tabs .on{color:#35493B;border-bottom:3px solid #B66947;margin-bottom:-1px}
+.row{display:flex;align-items:center;gap:14px;padding:12px 16px;min-height:64px}
+.chev{flex:none}
+.spacer{flex:1}
+
+.s.tb{padding-bottom:96px;position:relative}
+.tabbar{position:absolute;left:0;right:0;bottom:0;height:84px;background:#FEFBF5;border-top:1px solid #DCD3C3;display:flex;justify-content:space-around;padding-top:8px}
+.tabbar div{display:flex;flex-direction:column;align-items:center;gap:3px;font-size:17px;font-weight:600;color:#5E5B53;padding-bottom:4px;min-width:64px}
+.tabbar .on{color:#35493B;font-weight:700}
+.tabbar .on span{border-bottom:3px solid #B66947;padding-bottom:2px}
+.lbl{font-size:17px;color:#5E5B53}
+.val{font-size:17px;font-weight:700;color:#2B2A26;text-align:right}
+.kv{display:flex;justify-content:space-between;gap:12px;padding:7px 0;border-bottom:1px solid #EDE6DA}
+.kv:last-child{border-bottom:none}
+.ovr{height:76px;border-radius:8px;background:#B66947;color:#fff;font-weight:800;font-size:22px;display:flex;align-items:center;justify-content:center;gap:12px;width:100%;border:3px solid #7A3A20;box-shadow:0 6px 0 #7A3A20}
+.link{font-size:17px;font-weight:700;color:#35493B;text-decoration:underline;min-height:44px;display:flex;align-items:center}
+.av{width:44px;height:44px;border-radius:22px;background:#35493B;color:#fff;font-family:'Fraunces',serif;font-weight:600;font-size:20px;display:flex;align-items:center;justify-content:center;flex:none}
+
+.lock{width:390px;height:844px;position:relative;overflow:hidden;background:linear-gradient(170deg,#2E4234 0%,#35493B 45%,#4A5F4E 100%);padding:26px 16px;display:flex;flex-direction:column;align-items:center}
+.n{width:100%;background:rgba(254,251,245,.94);border-radius:14px;padding:12px 14px;display:flex;gap:12px;align-items:flex-start;box-shadow:0 6px 18px rgba(0,0,0,.18)}
+.n .t{font-size:17px;font-weight:500;color:#2B2A26;line-height:1.3}.n .b{font-size:17px;color:#3F3D38;line-height:1.35}
+.n .h{display:flex;justify-content:space-between;font-size:17px;color:#5E5B53;font-weight:500;margin-bottom:2px}
+.appic{width:40px;height:40px;border-radius:9px;background:#35493B;flex:none;display:flex;align-items:center;justify-content:center}
+</style></head><body style="position:relative">
+<img src="20-home-option-a.png" style="position:absolute;inset:0;width:390px;height:844px;filter:brightness(.8) blur(1px)">
+<div style="position:absolute;left:12px;right:12px;top:14px;z-index:5"><div class="n" style="background:#FEFBF5;box-shadow:0 14px 34px rgba(0,0,0,.3)"><div class="appic"><svg width="26" height="27" viewBox="-10 -10 46 47" style="overflow:visible"><path d="M22.0,13.6 Q23.0,14.4 22.2,15.3 Q21.4,16.1 18.6,16.6 Q15.8,17.1 12.4,17.2 Q9.1,17.2 6.3,16.7 Q3.5,16.2 2.9,15.3 Q2.2,14.4 3.2,13.7 Q4.2,12.9 6.6,12.2 Q8.9,11.6 12.3,11.7 Q15.7,11.8 18.4,12.3 Q21.0,12.8 22.0,13.6Z" fill="#E3E9DC"/><path d="M23.1,12.7 Q24.3,13.4 23.2,14.2 Q22.0,15.0 19.4,15.6 Q16.8,16.1 13.6,16.0 Q10.3,15.9 7.3,15.5 Q4.3,15.1 3.2,14.3 Q2.2,13.4 3.4,12.6 Q4.6,11.8 7.5,11.4 Q10.4,11.0 13.6,10.9 Q16.8,10.8 19.3,11.3 Q21.9,11.9 23.1,12.7Z" fill="none" stroke="#35493B" stroke-width="1.4" stroke-opacity=".45" stroke-linecap="round"/><path d="M20.9,8.5 Q21.7,9.3 20.9,10.0 Q20.0,10.8 18.1,11.3 Q16.1,11.8 13.6,11.8 Q11.0,11.8 9.0,11.3 Q7.0,10.8 6.1,10.0 Q5.1,9.3 5.7,8.4 Q6.2,7.6 8.5,7.1 Q10.8,6.6 13.5,6.6 Q16.2,6.6 18.2,7.2 Q20.1,7.8 20.9,8.5Z" fill="#CBD7C4"/><path d="M22.2,7.5 Q22.8,8.3 22.1,9.1 Q21.3,9.8 19.3,10.4 Q17.3,11.0 14.6,10.9 Q12.0,10.8 9.9,10.3 Q7.8,9.8 6.9,9.1 Q6.0,8.3 7.1,7.6 Q8.2,6.8 10.0,6.3 Q11.9,5.8 14.5,5.8 Q17.2,5.8 19.4,6.2 Q21.6,6.7 22.2,7.5Z" fill="none" stroke="#35493B" stroke-width="1.4" stroke-opacity=".45" stroke-linecap="round"/><path d="M18.6,3.6 Q19.2,4.4 18.6,5.2 Q18.0,6.0 16.3,6.5 Q14.6,7.0 12.5,7.0 Q10.3,7.0 8.6,6.5 Q6.9,6.0 6.2,5.2 Q5.4,4.4 6.5,3.7 Q7.5,3.0 8.9,2.5 Q10.4,2.0 12.5,1.9 Q14.7,1.8 16.3,2.3 Q18.0,2.9 18.6,3.6Z" fill="#E8B49A"/><path d="M19.4,2.7 Q20.0,3.4 19.4,4.2 Q18.9,4.9 17.2,5.4 Q15.6,5.8 13.6,5.7 Q11.6,5.6 10.1,5.2 Q8.7,4.7 7.9,4.1 Q7.1,3.4 7.8,2.7 Q8.4,2.0 9.9,1.5 Q11.4,0.9 13.5,0.9 Q15.6,1.0 17.2,1.4 Q18.8,1.9 19.4,2.7Z" fill="none" stroke="#35493B" stroke-width="1.4" stroke-opacity=".45" stroke-linecap="round"/></svg></div><div style="flex:1"><div class="h"><span>Next Move</span><span>now</span></div><div class="t">Your CalFresh form is ready to sign</div><div class="b">Tap to check your answers and sign with your finger.</div></div></div></div>
+</body></html>

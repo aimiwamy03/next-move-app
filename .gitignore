@@ -1,0 +1,44 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Env / secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.p12
+*.key
+credentials.json
+secrets/
+
+# Node / Expo (also covered under mobile/)
+node_modules/
+.expo/
+dist/
+web-build/
+npm-debug.*
+yarn-error.*
+*.tsbuildinfo
+coverage/
+
+# Native build output if generated at repo root
+ios/
+android/
+
+# Python design tooling
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Design source temp
+designs/source/*.pyc
+.vercel

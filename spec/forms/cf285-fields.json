@@ -1,0 +1,10044 @@
+[
+ {
+  "name": "CF 285  2",
+  "type": "text",
+  "page": 1,
+  "rect": [
+   511,
+   687,
+   522,
+   696
+  ],
+  "tooltip": "This form was created to be accessible. We provide instructions so you will know if you may remain in forms mode and receive all pertinent information, or if you need to return to browse mode to hear information and instruction.  Remain in Browse mode. ",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  3",
+  "type": "text",
+  "page": 8,
+  "rect": [
+   36,
+   45,
+   577,
+   726
+  ],
+  "tooltip": "Notes",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  15",
+  "type": "text",
+  "page": 9,
+  "rect": [
+   40,
+   536,
+   266,
+   549
+  ],
+  "tooltip": "Home Phone",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  16",
+  "type": "text",
+  "page": 9,
+  "rect": [
+   266,
+   537,
+   470,
+   549
+  ],
+  "tooltip": "Cell Phone",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  17",
+  "type": "checkbox",
+  "page": 9,
+  "rect": [
+   516,
+   537,
+   529,
+   549
+  ],
+  "tooltip": "Check Box for Text\r",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  18",
+  "type": "text",
+  "page": 9,
+  "rect": [
+   41,
+   515,
+   266,
+   528
+  ],
+  "tooltip": "Work/Alternative/Message Phone",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  19",
+  "type": "text",
+  "page": 9,
+  "rect": [
+   266,
+   515,
+   576,
+   529
+  ],
+  "tooltip": "Email Address, exit forms mode",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  4",
+  "type": "text",
+  "page": 9,
+  "rect": [
+   40,
+   653,
+   246,
+   672
+  ],
+  "tooltip": "Name (First, middle, last)",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  5",
+  "type": "text",
+  "page": 9,
+  "rect": [
+   246,
+   652,
+   418,
+   673
+  ],
+  "tooltip": "Other Names (maiden, nicknames, etc.)",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  6",
+  "type": "text",
+  "page": 9,
+  "rect": [
+   418,
+   651,
+   575,
+   670
+  ],
+  "tooltip": "Social Security Number (if your have one and are applying for benefits)",
+  "on": null,
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  7",
+  "type": "text",
+  "page": 9,
+  "rect": [
+   41,
+   631,
+   314,
+   644
+  ],
+  "tooltip": "Home Address or Directions to your Home",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  8",
+  "type": "text",
+  "page": 9,
+  "rect": [
+   315,
+   631,
+   459,
+   643
+  ],
+  "tooltip": "City",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  9",
+  "type": "text",
+  "page": 9,
+  "rect": [
+   460,
+   631,
+   503,
+   643
+  ],
+  "tooltip": "State",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  10",
+  "type": "text",
+  "page": 9,
+  "rect": [
+   504,
+   631,
+   575,
+   644
+  ],
+  "tooltip": "Zip Code",
+  "on": null,
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  11",
+  "type": "text",
+  "page": 9,
+  "rect": [
+   40,
+   609,
+   313,
+   621
+  ],
+  "tooltip": "Mailing Address (if different from above)",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  12",
+  "type": "text",
+  "page": 9,
+  "rect": [
+   314,
+   609,
+   460,
+   622
+  ],
+  "tooltip": "City",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  13",
+  "type": "text",
+  "page": 9,
+  "rect": [
+   460,
+   609,
+   503,
+   622
+  ],
+  "tooltip": "State",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  14",
+  "type": "text",
+  "page": 9,
+  "rect": [
+   503,
+   609,
+   575,
+   621
+  ],
+  "tooltip": "Zip Code, exit forms mode",
+  "on": null,
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  20",
+  "type": "checkbox",
+  "page": 9,
+  "rect": [
+   119,
+   500,
+   130,
+   511
+  ],
+  "tooltip": "Are you homeless? Yes",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  21",
+  "type": "checkbox",
+  "page": 9,
+  "rect": [
+   156,
+   500,
+   166,
+   511
+  ],
+  "tooltip": "no, exit forms mode",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  22",
+  "type": "text",
+  "page": 9,
+  "rect": [
+   248,
+   472,
+   423,
+   483
+  ],
+  "tooltip": "What language do you prefer to read (if not English)?",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  23",
+  "type": "text",
+  "page": 9,
+  "rect": [
+   253,
+   461,
+   425,
+   472
+  ],
+  "tooltip": "What language do you prefer to speak (if not English)?",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  24",
+  "type": "checkbox",
+  "page": 9,
+  "rect": [
+   471,
+   445,
+   482,
+   456
+  ],
+  "tooltip": "The County will provide an interpreter at no cost to you.  If you are deaf or hard of hearing please check here.",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  35",
+  "type": "text",
+  "page": 9,
+  "rect": [
+   36,
+   58,
+   51,
+   73
+  ],
+  "tooltip": "Hand Signature of Applicant (or Adult Household Member/Authorized Representative*/Guardian)",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  36",
+  "type": "text",
+  "page": 9,
+  "rect": [
+   451,
+   58,
+   573,
+   72
+  ],
+  "tooltip": "Date, exit forms mode",
+  "on": null,
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  25",
+  "type": "checkbox",
+  "page": 9,
+  "rect": [
+   513,
+   417,
+   523,
+   428
+  ],
+  "tooltip": "Do you or anyone in your household have a disability (optional question)?   (Please check one) Yes",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  26",
+  "type": "checkbox",
+  "page": 9,
+  "rect": [
+   550,
+   416,
+   561,
+   428
+  ],
+  "tooltip": "no",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  28",
+  "type": "checkbox",
+  "page": 9,
+  "rect": [
+   513,
+   395,
+   523,
+   406
+  ],
+  "tooltip": "Do you or anyone in your household need an accommodation due to a disability (optional question)?  (Please check one) Yes",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  27",
+  "type": "checkbox",
+  "page": 9,
+  "rect": [
+   549,
+   395,
+   560,
+   406
+  ],
+  "tooltip": "no",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  30",
+  "type": "checkbox",
+  "page": 9,
+  "rect": [
+   511,
+   370,
+   522,
+   381
+  ],
+  "tooltip": "Has there been a history of domestic violence/abuse (optional question)?  (Please check one) Yes",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  29",
+  "type": "checkbox",
+  "page": 9,
+  "rect": [
+   546,
+   369,
+   557,
+   380
+  ],
+  "tooltip": "no",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  552",
+  "type": "checkbox",
+  "page": 9,
+  "rect": [
+   513,
+   342,
+   524,
+   353
+  ],
+  "tooltip": "Are you interested in applying for Medi-Cal?  If you answer yes, the County will use your answers to find out if you can get Medi-Cal.  (Please check one) Yes",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  1011",
+  "type": "checkbox",
+  "page": 9,
+  "rect": [
+   549,
+   341,
+   560,
+   352
+  ],
+  "tooltip": "no",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  554",
+  "type": "checkbox",
+  "page": 9,
+  "rect": [
+   512,
+   313,
+   523,
+   324
+  ],
+  "tooltip": "Is your household\u2019s monthly gross income less than $150 and cash on hand, or in checking and savings accounts is $100 or less?   (Please check one) Yes",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  553",
+  "type": "checkbox",
+  "page": 9,
+  "rect": [
+   549,
+   313,
+   559,
+   324
+  ],
+  "tooltip": "no",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  556",
+  "type": "checkbox",
+  "page": 9,
+  "rect": [
+   512,
+   286,
+   523,
+   297
+  ],
+  "tooltip": "Is your household\u2019s combined monthly gross income and cash on hand or in checking and savings accounts is less than the combined cost of rent/mortgage and utilities?   (Please check one) Yes",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  555",
+  "type": "checkbox",
+  "page": 9,
+  "rect": [
+   549,
+   286,
+   559,
+   297
+  ],
+  "tooltip": "no",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  558",
+  "type": "checkbox",
+  "page": 9,
+  "rect": [
+   512,
+   260,
+   523,
+   270
+  ],
+  "tooltip": "Is your household a migrant/seasonal farm worker household with liquid resources not exceeding $100 and either your income stopped or you will not get more than $25 in the next 10 days?  (Please check one) Yes",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  557",
+  "type": "checkbox",
+  "page": 9,
+  "rect": [
+   549,
+   259,
+   559,
+   270
+  ],
+  "tooltip": "no, exit forms mode ",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  39",
+  "type": "text",
+  "page": 10,
+  "rect": [
+   38,
+   629,
+   395,
+   640
+  ],
+  "tooltip": "Authorized Representative Name",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  40",
+  "type": "text",
+  "page": 10,
+  "rect": [
+   398,
+   629,
+   575,
+   640
+  ],
+  "tooltip": "Authorized Representative Phone Number, exit forms mode",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  44",
+  "type": "checkbox",
+  "page": 10,
+  "rect": [
+   482,
+   615,
+   493,
+   625
+  ],
+  "tooltip": "Do you want to name someone to receive and spend CalFresh benefits for your household?  (Please check one) YES",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  42",
+  "type": "checkbox",
+  "page": 10,
+  "rect": [
+   401,
+   665,
+   412,
+   676
+  ],
+  "tooltip": "Do you want to name someone to help you with your CalFresh case?  (Please check one) YES",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  43",
+  "type": "checkbox",
+  "page": 10,
+  "rect": [
+   445,
+   665,
+   456,
+   676
+  ],
+  "tooltip": "No, exit forms mode",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  45",
+  "type": "checkbox",
+  "page": 10,
+  "rect": [
+   527,
+   615,
+   538,
+   626
+  ],
+  "tooltip": "No, exit forms mode",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  51",
+  "type": "text",
+  "page": 10,
+  "rect": [
+   41,
+   574,
+   395,
+   585
+  ],
+  "tooltip": "Name",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  50",
+  "type": "text",
+  "page": 10,
+  "rect": [
+   400,
+   575,
+   577,
+   586
+  ],
+  "tooltip": "Phone number",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  49",
+  "type": "text",
+  "page": 10,
+  "rect": [
+   42,
+   554,
+   314,
+   564
+  ],
+  "tooltip": "Street Address",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  46",
+  "type": "text",
+  "page": 10,
+  "rect": [
+   315,
+   553,
+   397,
+   564
+  ],
+  "tooltip": "City",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  47",
+  "type": "text",
+  "page": 10,
+  "rect": [
+   399,
+   553,
+   482,
+   564
+  ],
+  "tooltip": "State",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  48",
+  "type": "text",
+  "page": 10,
+  "rect": [
+   485,
+   553,
+   576,
+   563
+  ],
+  "tooltip": "Zip Code, exit forms mode",
+  "on": null,
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  80",
+  "type": "checkbox",
+  "page": 10,
+  "rect": [
+   35,
+   225,
+   46,
+   236
+  ],
+  "tooltip": "Please check this box if you would prefer an in-person interview.",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  81",
+  "type": "checkbox",
+  "page": 10,
+  "rect": [
+   35,
+   208,
+   46,
+   219
+  ],
+  "tooltip": "Please check this box if you need other arrangements due to a disability.  Exit forms mode",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  82",
+  "type": "checkbox",
+  "page": 10,
+  "rect": [
+   66,
+   172,
+   77,
+   183
+  ],
+  "tooltip": "Please check the boxes below for your preferred day and time for an interview:\r  Day:  Today",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  83",
+  "type": "checkbox",
+  "page": 10,
+  "rect": [
+   114,
+   172,
+   125,
+   183
+  ],
+  "tooltip": " Next Available day",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  84",
+  "type": "checkbox",
+  "page": 10,
+  "rect": [
+   214,
+   172,
+   225,
+   183
+  ],
+  "tooltip": "Any day",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  85",
+  "type": "checkbox",
+  "page": 10,
+  "rect": [
+   272,
+   172,
+   283,
+   183
+  ],
+  "tooltip": " Monday",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  86",
+  "type": "checkbox",
+  "page": 10,
+  "rect": [
+   330,
+   173,
+   341,
+   184
+  ],
+  "tooltip": "Tuesday",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  87",
+  "type": "checkbox",
+  "page": 10,
+  "rect": [
+   390,
+   172,
+   401,
+   183
+  ],
+  "tooltip": "Wednesday",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  88",
+  "type": "checkbox",
+  "page": 10,
+  "rect": [
+   464,
+   172,
+   474,
+   183
+  ],
+  "tooltip": "Thursday",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  89",
+  "type": "checkbox",
+  "page": 10,
+  "rect": [
+   527,
+   172,
+   538,
+   183
+  ],
+  "tooltip": "Friday",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  90",
+  "type": "checkbox",
+  "page": 10,
+  "rect": [
+   65,
+   156,
+   76,
+   166
+  ],
+  "tooltip": "Time, early morning",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  91",
+  "type": "checkbox",
+  "page": 10,
+  "rect": [
+   148,
+   156,
+   158,
+   167
+  ],
+  "tooltip": "Mid-morning",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  92",
+  "type": "checkbox",
+  "page": 10,
+  "rect": [
+   223,
+   156,
+   234,
+   167
+  ],
+  "tooltip": "Afternoon",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  93",
+  "type": "checkbox",
+  "page": 10,
+  "rect": [
+   287,
+   156,
+   298,
+   167
+  ],
+  "tooltip": "Late Afternoon",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  94",
+  "type": "checkbox",
+  "page": 10,
+  "rect": [
+   372,
+   156,
+   383,
+   166
+  ],
+  "tooltip": "Anytime, exit forms mode",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  100",
+  "type": "text",
+  "page": 10,
+  "rect": [
+   39,
+   70,
+   306,
+   85
+  ],
+  "tooltip": "If yes, who? Line 1 of 2",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  99",
+  "type": "text",
+  "page": 10,
+  "rect": [
+   309,
+   70,
+   576,
+   85
+  ],
+  "tooltip": "Where (county/state)? Line 1 of 2",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  98",
+  "type": "text",
+  "page": 10,
+  "rect": [
+   39,
+   46,
+   306,
+   61
+  ],
+  "tooltip": "If yes, who? Line 2 of 2",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  97",
+  "type": "text",
+  "page": 10,
+  "rect": [
+   309,
+   46,
+   576,
+   61
+  ],
+  "tooltip": "Where (county/state)? Line 2 of 2, exit forms mode",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  95",
+  "type": "checkbox",
+  "page": 10,
+  "rect": [
+   496,
+   103,
+   507,
+   113
+  ],
+  "tooltip": "5. Other Programs  Have you or anyone in your household ever received public assistance (Temporary Assistance for Needy Families, Medicaid, Supplemental Nutrition Assistance Program [CalFresh], General Assistance (GA)/General Relief (GR), etc.)?  (Please check one) Yes",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  96",
+  "type": "checkbox",
+  "page": 10,
+  "rect": [
+   543,
+   103,
+   553,
+   114
+  ],
+  "tooltip": "No",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  52",
+  "type": "checkbox",
+  "page": 10,
+  "rect": [
+   36,
+   481,
+   46,
+   492
+  ],
+  "tooltip": "Check this box if you do not want to give the County information about your race and ethnicity.  If you do not, the County will  enter this information for civil rights statistics only. Exit forms mode",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  60",
+  "type": "checkbox",
+  "page": 10,
+  "rect": [
+   34,
+   385,
+   45,
+   396
+  ],
+  "tooltip": "Race/Ethnic origin, white",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  61",
+  "type": "checkbox",
+  "page": 10,
+  "rect": [
+   86,
+   386,
+   96,
+   397
+  ],
+  "tooltip": "American Indian or Alaskan Native",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  62",
+  "type": "checkbox",
+  "page": 10,
+  "rect": [
+   246,
+   386,
+   257,
+   397
+  ],
+  "tooltip": "Black or African American",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  63",
+  "type": "checkbox",
+  "page": 10,
+  "rect": [
+   372,
+   386,
+   383,
+   397
+  ],
+  "tooltip": "Other or mixed ",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  64",
+  "type": "text",
+  "page": 10,
+  "rect": [
+   449,
+   385,
+   573,
+   396
+  ],
+  "tooltip": "List other or mixed",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  65",
+  "type": "checkbox",
+  "page": 10,
+  "rect": [
+   34,
+   371,
+   45,
+   381
+  ],
+  "tooltip": "Asian (If checked, please select one or more of the following):",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  66",
+  "type": "checkbox",
+  "page": 10,
+  "rect": [
+   52,
+   353,
+   63,
+   364
+  ],
+  "tooltip": "Filipino",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  67",
+  "type": "checkbox",
+  "page": 10,
+  "rect": [
+   104,
+   353,
+   114,
+   364
+  ],
+  "tooltip": "Chinese",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  68",
+  "type": "checkbox",
+  "page": 10,
+  "rect": [
+   159,
+   353,
+   170,
+   364
+  ],
+  "tooltip": "Japanese",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  69",
+  "type": "checkbox",
+  "page": 10,
+  "rect": [
+   221,
+   353,
+   232,
+   364
+  ],
+  "tooltip": "Cambodian",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  70",
+  "type": "checkbox",
+  "page": 10,
+  "rect": [
+   291,
+   353,
+   301,
+   364
+  ],
+  "tooltip": "Korean",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  71",
+  "type": "checkbox",
+  "page": 10,
+  "rect": [
+   342,
+   353,
+   353,
+   364
+  ],
+  "tooltip": "Vietnamese",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  72",
+  "type": "checkbox",
+  "page": 10,
+  "rect": [
+   413,
+   353,
+   424,
+   364
+  ],
+  "tooltip": "Asian Indian",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  73",
+  "type": "checkbox",
+  "page": 10,
+  "rect": [
+   485,
+   353,
+   496,
+   364
+  ],
+  "tooltip": "Laotian",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  74",
+  "type": "checkbox",
+  "page": 10,
+  "rect": [
+   53,
+   338,
+   63,
+   348
+  ],
+  "tooltip": "Other Asian ",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  75",
+  "type": "text",
+  "page": 10,
+  "rect": [
+   151,
+   335,
+   405,
+   346
+  ],
+  "tooltip": "List other Asian",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  76",
+  "type": "checkbox",
+  "page": 10,
+  "rect": [
+   34,
+   321,
+   45,
+   332
+  ],
+  "tooltip": "Native Hawaiian or Other Pacific Islander (If checked, please select one or more of the following):",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  77",
+  "type": "checkbox",
+  "page": 10,
+  "rect": [
+   52,
+   304,
+   63,
+   315
+  ],
+  "tooltip": "Native Hawaiian",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  78",
+  "type": "checkbox",
+  "page": 10,
+  "rect": [
+   140,
+   304,
+   151,
+   315
+  ],
+  "tooltip": "Guamanian or Chamorro",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  79",
+  "type": "checkbox",
+  "page": 10,
+  "rect": [
+   264,
+   305,
+   274,
+   316
+  ],
+  "tooltip": "Samoan, exit forms mode",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  55",
+  "type": "checkbox",
+  "page": 10,
+  "rect": [
+   320,
+   437,
+   331,
+   448
+  ],
+  "tooltip": " If you are of Hispanic or latino origin, do you consider yourself: Mexican",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  56",
+  "type": "checkbox",
+  "page": 10,
+  "rect": [
+   383,
+   438,
+   394,
+   449
+  ],
+  "tooltip": "Puerto Rican",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  57",
+  "type": "checkbox",
+  "page": 10,
+  "rect": [
+   469,
+   438,
+   480,
+   449
+  ],
+  "tooltip": "Cuban",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  58",
+  "type": "checkbox",
+  "page": 10,
+  "rect": [
+   320,
+   424,
+   331,
+   435
+  ],
+  "tooltip": "Other",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  59",
+  "type": "text",
+  "page": 10,
+  "rect": [
+   358,
+   422,
+   574,
+   433
+  ],
+  "tooltip": "List other",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  53",
+  "type": "checkbox",
+  "page": 10,
+  "rect": [
+   109,
+   437,
+   120,
+   448
+  ],
+  "tooltip": "Ethnicity - Are you Hispanic or Latino?  (Please check one)  YES",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  54",
+  "type": "checkbox",
+  "page": 10,
+  "rect": [
+   153,
+   437,
+   164,
+   448
+  ],
+  "tooltip": "no, exit forms mode ",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  101",
+  "type": "checkbox",
+  "page": 11,
+  "rect": [
+   39,
+   570,
+   50,
+   581
+  ],
+  "tooltip": "Applying for benefits? (Please check one) Yes, Line 1 of 5",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  102",
+  "type": "checkbox",
+  "page": 11,
+  "rect": [
+   71,
+   571,
+   82,
+   582
+  ],
+  "tooltip": "No, Line 1 of 5",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  103",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   99,
+   565,
+   248,
+   584
+  ],
+  "tooltip": "Last name, first name, middle initial Line 1 of 5",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  104",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   249,
+   570,
+   259,
+   583
+  ],
+  "tooltip": "How is the person related to you? Self, Line 1 of 5",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  105",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   306,
+   565,
+   364,
+   584
+  ],
+  "tooltip": "Date of birth, Line 1 of 5",
+  "on": null,
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  106",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   364,
+   565,
+   407,
+   585
+  ],
+  "tooltip": "Gender M or F (line 1 of 5)",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  107",
+  "type": "checkbox",
+  "page": 11,
+  "rect": [
+   410,
+   571,
+   420,
+   582
+  ],
+  "tooltip": "U.S. Citizen or National (Check  yes or no) Line 1 of 5",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  108",
+  "type": "checkbox",
+  "page": 11,
+  "rect": [
+   441,
+   571,
+   452,
+   581
+  ],
+  "tooltip": "No, if no complete question 6b. Line 1 of 5",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  109",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   470,
+   564,
+   576,
+   583
+  ],
+  "tooltip": "Optional - Social Security Number, Line 1 of 5",
+  "on": null,
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  1010",
+  "type": "checkbox",
+  "page": 11,
+  "rect": [
+   39,
+   551,
+   50,
+   562
+  ],
+  "tooltip": "Applying for benefits? (Please check one) Yes, Line 2 of 5",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  1012",
+  "type": "checkbox",
+  "page": 11,
+  "rect": [
+   71,
+   551,
+   82,
+   561
+  ],
+  "tooltip": "No, Line 2 of 5",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  1013",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   100,
+   545,
+   248,
+   564
+  ],
+  "tooltip": "Last name, first name, middle initial Line 2 of 5",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  111",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   248,
+   544,
+   307,
+   565
+  ],
+  "tooltip": "How is the person related to you? Line 2 of 5",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  1014",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   307,
+   545,
+   365,
+   564
+  ],
+  "tooltip": "Date of birth, Line 2 of 5",
+  "on": null,
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  1015",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   366,
+   544,
+   408,
+   564
+  ],
+  "tooltip": "Gender M or F (line 2 of 5)",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  1016",
+  "type": "checkbox",
+  "page": 11,
+  "rect": [
+   410,
+   551,
+   420,
+   561
+  ],
+  "tooltip": "U.S. Citizen or National (Check  yes or no) Line 2 of 5",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  1017",
+  "type": "checkbox",
+  "page": 11,
+  "rect": [
+   442,
+   551,
+   453,
+   561
+  ],
+  "tooltip": "No, if no complete question 6b. Line 2 of 5",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  1018",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   469,
+   544,
+   575,
+   563
+  ],
+  "tooltip": "Optional - Social Security Number, Line 2 of 5",
+  "on": null,
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  1019",
+  "type": "checkbox",
+  "page": 11,
+  "rect": [
+   40,
+   531,
+   51,
+   542
+  ],
+  "tooltip": "Applying for benefits? (Please check one) Yes, Line 3 of 5",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  1020",
+  "type": "checkbox",
+  "page": 11,
+  "rect": [
+   71,
+   530,
+   82,
+   541
+  ],
+  "tooltip": "No, Line 3 of 5",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  1021",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   101,
+   525,
+   249,
+   544
+  ],
+  "tooltip": "Last name, first name, middle initial Line 3 of 5",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  112",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   249,
+   524,
+   307,
+   545
+  ],
+  "tooltip": "How is the person related to you? Line 3 of 5",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  1022",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   307,
+   525,
+   366,
+   544
+  ],
+  "tooltip": "Date of birth, Line 3 of 5",
+  "on": null,
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  1023",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   366,
+   524,
+   409,
+   544
+  ],
+  "tooltip": "Gender M or F (line 3 of 5)",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  1024",
+  "type": "checkbox",
+  "page": 11,
+  "rect": [
+   410,
+   530,
+   421,
+   541
+  ],
+  "tooltip": "U.S. Citizen or National (Check  yes or no) Line 3 of 5",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  1025",
+  "type": "checkbox",
+  "page": 11,
+  "rect": [
+   442,
+   530,
+   453,
+   541
+  ],
+  "tooltip": "No, if no complete question 6b. Line 3 of 5",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  1026",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   470,
+   523,
+   576,
+   543
+  ],
+  "tooltip": "Optional - Social Security Number, Line 3 of 5",
+  "on": null,
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  1027",
+  "type": "checkbox",
+  "page": 11,
+  "rect": [
+   40,
+   511,
+   50,
+   521
+  ],
+  "tooltip": "Applying for benefits? (Please check one) Yes, Line 4 of 5",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  1028",
+  "type": "checkbox",
+  "page": 11,
+  "rect": [
+   72,
+   510,
+   82,
+   521
+  ],
+  "tooltip": "No, Line 4 of 5",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  1029",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   100,
+   505,
+   249,
+   524
+  ],
+  "tooltip": "Last name, first name, middle initial Line 4 of 5",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  113",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   249,
+   504,
+   307,
+   525
+  ],
+  "tooltip": "How is the person related to you? Line 4 of 5",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  1030",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   307,
+   504,
+   366,
+   523
+  ],
+  "tooltip": "Date of birth, Line 4 of 5",
+  "on": null,
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  1031",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   366,
+   504,
+   408,
+   523
+  ],
+  "tooltip": "Gender M or F (line 4 of 5)",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  1032",
+  "type": "checkbox",
+  "page": 11,
+  "rect": [
+   410,
+   510,
+   421,
+   521
+  ],
+  "tooltip": "U.S. Citizen or National (Check  yes or no) Line 4 of 5",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  1033",
+  "type": "checkbox",
+  "page": 11,
+  "rect": [
+   442,
+   510,
+   453,
+   521
+  ],
+  "tooltip": "No, if no complete question 6b. Line 4 of 5",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  1034",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   470,
+   503,
+   576,
+   522
+  ],
+  "tooltip": "Optional - Social Security Number, Line 4 of 5",
+  "on": null,
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  1035",
+  "type": "checkbox",
+  "page": 11,
+  "rect": [
+   40,
+   491,
+   50,
+   502
+  ],
+  "tooltip": "Applying for benefits? (Please check one) Yes, Line 5 of 5",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  1036",
+  "type": "checkbox",
+  "page": 11,
+  "rect": [
+   72,
+   490,
+   83,
+   501
+  ],
+  "tooltip": "No, Line 5 of 5",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  1037",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   101,
+   485,
+   249,
+   504
+  ],
+  "tooltip": "Last name, first name, middle initial Line 5 of 5",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  114",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   249,
+   484,
+   307,
+   505
+  ],
+  "tooltip": "How is the person related to you? Line 5 of 5",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  1038",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   307,
+   485,
+   366,
+   503
+  ],
+  "tooltip": "Date of birth, Line 5 of 5",
+  "on": null,
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  1039",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   366,
+   484,
+   408,
+   503
+  ],
+  "tooltip": "Gender M or F (line 5 of 5)",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  1040",
+  "type": "checkbox",
+  "page": 11,
+  "rect": [
+   410,
+   490,
+   421,
+   501
+  ],
+  "tooltip": "U.S. Citizen or National (Check  yes or no) Line 5 of 5",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  1041",
+  "type": "checkbox",
+  "page": 11,
+  "rect": [
+   443,
+   490,
+   453,
+   501
+  ],
+  "tooltip": "No, if no complete question 6b. Line 5 of 5",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  1042",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   470,
+   483,
+   576,
+   503
+  ],
+  "tooltip": "Optional - Social Security Number, Line 5 of 5, Exit forms mode",
+  "on": null,
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  154",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   37,
+   439,
+   304,
+   450
+  ],
+  "tooltip": "Name Line 1 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  155",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   307,
+   439,
+   575,
+   450
+  ],
+  "tooltip": "Name Line 2 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  156",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   38,
+   417,
+   305,
+   428
+  ],
+  "tooltip": "Name Line 3 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  157",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   309,
+   416,
+   576,
+   427
+  ],
+  "tooltip": "Name Line 4 of 4, exit forms mode",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  158",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   37,
+   315,
+   214,
+   338
+  ],
+  "tooltip": "Name Line 1 of 3",
+  "on": null,
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  159",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   214,
+   315,
+   277,
+   338
+  ],
+  "tooltip": "Date of Entry into U.S.\r(If known) Line 1 of 3",
+  "on": null,
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  160",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   335,
+   328,
+   503,
+   338
+  ],
+  "tooltip": "Give one of the following (If known):  Passport Number, \rAlien Registration Number, etc., Enter document type, Line 1 of 3",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  161",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   343,
+   317,
+   503,
+   327
+  ],
+  "tooltip": "Enter document number, Line 1 of 3",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  162",
+  "type": "checkbox",
+  "page": 11,
+  "rect": [
+   513,
+   325,
+   523,
+   336
+  ],
+  "tooltip": "Sponsored? (Check yes or no) Yes  If yes, complete question 6c. Line 1 of 3.",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  163",
+  "type": "checkbox",
+  "page": 11,
+  "rect": [
+   544,
+   325,
+   555,
+   336
+  ],
+  "tooltip": "No, Line 1 of 3",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  164",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   37,
+   292,
+   215,
+   314
+  ],
+  "tooltip": "Name Line 2 of 3",
+  "on": null,
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  165",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   215,
+   292,
+   278,
+   315
+  ],
+  "tooltip": "Date of Entry into U.S.\r(If known) Line 2 of 3",
+  "on": null,
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  166",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   336,
+   304,
+   503,
+   314
+  ],
+  "tooltip": "Give one of the following (If known):  Passport Number, \rAlien Registration Number, etc., Enter document type, Line 2 of 3",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  167",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   344,
+   293,
+   504,
+   304
+  ],
+  "tooltip": "Enter document number, Line 2 of 3",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  168",
+  "type": "checkbox",
+  "page": 11,
+  "rect": [
+   512,
+   301,
+   523,
+   312
+  ],
+  "tooltip": "Sponsored? (Check yes or no) Yes  If yes, complete question 6c. Line 2 of 3.",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  169",
+  "type": "checkbox",
+  "page": 11,
+  "rect": [
+   544,
+   301,
+   555,
+   311
+  ],
+  "tooltip": "No, Line 2 of 3",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  170",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   37,
+   267,
+   214,
+   290
+  ],
+  "tooltip": "Name Line 3 of 3",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  171",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   214,
+   267,
+   277,
+   290
+  ],
+  "tooltip": "Date of Entry into U.S.\r(If known) Line 3 of 3",
+  "on": null,
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  172",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   335,
+   280,
+   503,
+   291
+  ],
+  "tooltip": "Give one of the following (If known):  Passport Number, \rAlien Registration Number, etc., Enter document type, Line 3 of 3",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  173",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   343,
+   270,
+   503,
+   281
+  ],
+  "tooltip": "Enter document number, Line 3 of 3",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  174",
+  "type": "checkbox",
+  "page": 11,
+  "rect": [
+   513,
+   278,
+   523,
+   288
+  ],
+  "tooltip": "Sponsored? (Check yes or no) Yes  If yes, complete question 6c. Line 3 of 3.",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  175",
+  "type": "checkbox",
+  "page": 11,
+  "rect": [
+   544,
+   278,
+   555,
+   288
+  ],
+  "tooltip": "No, Line 3 of 3",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  176",
+  "type": "checkbox",
+  "page": 11,
+  "rect": [
+   520,
+   239,
+   531,
+   250
+  ],
+  "tooltip": "Does anyone listed above have at least 10 years (40 quarters) of work history or military service in the USA? (Please check one.) Yes",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  177",
+  "type": "checkbox",
+  "page": 11,
+  "rect": [
+   551,
+   240,
+   562,
+   251
+  ],
+  "tooltip": "No",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  178",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   86,
+   238,
+   468,
+   249
+  ],
+  "tooltip": " If yes, who?",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  179",
+  "type": "checkbox",
+  "page": 11,
+  "rect": [
+   520,
+   199,
+   531,
+   210
+  ],
+  "tooltip": "Does anyone listed above have, or have they applied for, or do they plan to apply for a T-Visa, U-Visa or VAWA status? (Please check one.) Yes",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  180",
+  "type": "checkbox",
+  "page": 11,
+  "rect": [
+   551,
+   199,
+   562,
+   210
+  ],
+  "tooltip": "No",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  181",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   86,
+   196,
+   469,
+   207
+  ],
+  "tooltip": "If yes, who?",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  182",
+  "type": "checkbox",
+  "page": 11,
+  "rect": [
+   182,
+   152,
+   193,
+   163
+  ],
+  "tooltip": "6c.  Sponsored noncitizen information - Complete for those listed in question 6b above who are sponsored noncitizens and are applying for aid. Did the sponsor sign an I-864? (Please check one.) Yes If yes, please answer the rest of the question. If the sponsor signed an I-134 then skip this question.",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  183",
+  "type": "checkbox",
+  "page": 11,
+  "rect": [
+   222,
+   152,
+   233,
+   163
+  ],
+  "tooltip": "No, exit forms mode",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  184",
+  "type": "checkbox",
+  "page": 11,
+  "rect": [
+   223,
+   121,
+   234,
+   132
+  ],
+  "tooltip": "Does the sponsor regularly help with money? (Please check one.) Yes ",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  185",
+  "type": "checkbox",
+  "page": 11,
+  "rect": [
+   261,
+   122,
+   272,
+   133
+  ],
+  "tooltip": "No",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  186",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   379,
+   119,
+   441,
+   133
+  ],
+  "tooltip": "If yes, how much? Enter dollar amount",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  187",
+  "type": "checkbox",
+  "page": 11,
+  "rect": [
+   35,
+   89,
+   46,
+   100
+  ],
+  "tooltip": "Does the sponsor regularly help with any of the following (check all that apply)? rent",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  188",
+  "type": "checkbox",
+  "page": 11,
+  "rect": [
+   79,
+   89,
+   90,
+   100
+  ],
+  "tooltip": "clothes",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  189",
+  "type": "checkbox",
+  "page": 11,
+  "rect": [
+   136,
+   89,
+   146,
+   100
+  ],
+  "tooltip": "food",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  190",
+  "type": "checkbox",
+  "page": 11,
+  "rect": [
+   183,
+   89,
+   194,
+   100
+  ],
+  "tooltip": "other",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  191",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   220,
+   88,
+   495,
+   100
+  ],
+  "tooltip": "List other",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  192",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   38,
+   59,
+   287,
+   70
+  ],
+  "tooltip": "Sponsor\u2019s Name Line 1 of 2",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  193",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   290,
+   59,
+   472,
+   70
+  ],
+  "tooltip": "Who is sponsored? Line 1 of 2",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  194",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   473,
+   58,
+   577,
+   69
+  ],
+  "tooltip": "Sponsor\u2019s area code and phone number Line 1 of 2",
+  "on": null,
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  195",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   37,
+   38,
+   286,
+   49
+  ],
+  "tooltip": "Sponsor\u2019s Name Line 2 of 2",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  196",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   288,
+   38,
+   471,
+   49
+  ],
+  "tooltip": "Who is sponsored? Line 2 of 2",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  197",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   472,
+   37,
+   575,
+   48
+  ],
+  "tooltip": "Sponsor\u2019s area code and phone number Line 2 of 2",
+  "on": null,
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  198",
+  "type": "checkbox",
+  "page": 12,
+  "rect": [
+   505,
+   717,
+   516,
+   728
+  ],
+  "tooltip": "6d. Students. Is anyone who is applying for benefits including you attending a college or vocational school? (Please check one.) Yes,If yes, please answer this question.",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  199",
+  "type": "checkbox",
+  "page": 12,
+  "rect": [
+   536,
+   717,
+   547,
+   728
+  ],
+  "tooltip": "No, If no, skip to #6e.",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  2013",
+  "type": "text",
+  "page": 12,
+  "rect": [
+   40,
+   636,
+   187,
+   675
+  ],
+  "tooltip": "Name of person Line 1 of 2",
+  "on": null,
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  2012",
+  "type": "text",
+  "page": 12,
+  "rect": [
+   185,
+   637,
+   361,
+   675
+  ],
+  "tooltip": "Name of school/training Line 1 of 2",
+  "on": null,
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  202",
+  "type": "checkbox",
+  "page": 12,
+  "rect": [
+   362,
+   664,
+   373,
+   675
+  ],
+  "tooltip": "Enrolled status (Please check one.) Half-time or more",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  203",
+  "type": "checkbox",
+  "page": 12,
+  "rect": [
+   362,
+   651,
+   373,
+   661
+  ],
+  "tooltip": "Less than half-time, line 1 of 2 ",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  204",
+  "type": "text",
+  "page": 12,
+  "rect": [
+   445,
+   639,
+   474,
+   649
+  ],
+  "tooltip": "If less than half-time, enter number of units. Line 1 of 2",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  205",
+  "type": "text",
+  "page": 12,
+  "rect": [
+   500,
+   645,
+   541,
+   656
+  ],
+  "tooltip": "Are they working? Average work hours per week.  Line 1 of 2",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  206",
+  "type": "text",
+  "page": 12,
+  "rect": [
+   39,
+   598,
+   185,
+   636
+  ],
+  "tooltip": "Name of person Line 2 of 2",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  207",
+  "type": "text",
+  "page": 12,
+  "rect": [
+   184,
+   598,
+   361,
+   636
+  ],
+  "tooltip": "Name of school/training Line 2 of 2",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  208",
+  "type": "checkbox",
+  "page": 12,
+  "rect": [
+   362,
+   624,
+   373,
+   635
+  ],
+  "tooltip": "Enrolled status (Please check one.) Half-time or more. Line 2 of 2",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  209",
+  "type": "checkbox",
+  "page": 12,
+  "rect": [
+   362,
+   612,
+   373,
+   623
+  ],
+  "tooltip": "Less than half-time, line 2 of 2 ",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  2010",
+  "type": "text",
+  "page": 12,
+  "rect": [
+   443,
+   600,
+   472,
+   610
+  ],
+  "tooltip": "If less than half-time, enter number of units. Line 2 of 2",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  2011",
+  "type": "text",
+  "page": 12,
+  "rect": [
+   501,
+   606,
+   541,
+   616
+  ],
+  "tooltip": "Are they working? Average work hours per week.  Line 2 of 2",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  212",
+  "type": "checkbox",
+  "page": 12,
+  "rect": [
+   247,
+   582,
+   258,
+   592
+  ],
+  "tooltip": "6e. Is there a foster child living in your home? (Please check one.) Yes",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  213",
+  "type": "checkbox",
+  "page": 12,
+  "rect": [
+   279,
+   581,
+   290,
+   592
+  ],
+  "tooltip": "No",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  214",
+  "type": "text",
+  "page": 12,
+  "rect": [
+   360,
+   579,
+   565,
+   592
+  ],
+  "tooltip": "If yes, who?",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  215",
+  "type": "checkbox",
+  "page": 12,
+  "rect": [
+   520,
+   552,
+   531,
+   562
+  ],
+  "tooltip": "Please answer the following questions about the child(ren): Was this child(ren) placed in your home under a dependence order of the court? (Please check one) Yes",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  216",
+  "type": "checkbox",
+  "page": 12,
+  "rect": [
+   552,
+   553,
+   562,
+   563
+  ],
+  "tooltip": "If no, the foster care income will not be counted as unearned income.",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  217",
+  "type": "checkbox",
+  "page": 12,
+  "rect": [
+   520,
+   530,
+   531,
+   541
+  ],
+  "tooltip": "Do you want the foster care child(ren) counted in your CalFresh case? (Please check one) Yes, If yes, the foster care income you receive will be counted as unearned income. (Please check one.) Yes,  If yes, the foster care income you receive willbe counted as unearned income.",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  218",
+  "type": "checkbox",
+  "page": 12,
+  "rect": [
+   552,
+   530,
+   562,
+   541
+  ],
+  "tooltip": "If no, the foster care income will not be counted as unearned income. exit forms mode",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  219",
+  "type": "checkbox",
+  "page": 12,
+  "rect": [
+   130,
+   451,
+   140,
+   462
+  ],
+  "tooltip": "7.  Unearned Income Do you or anyone you buy and prepare food with get income that does not come from a job (unearned)?  (Please check one) Yes, If yes, please answer this question.",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  220",
+  "type": "checkbox",
+  "page": 12,
+  "rect": [
+   161,
+   451,
+   172,
+   462
+  ],
+  "tooltip": "No,  If no, skip to question #8.",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  221",
+  "type": "checkbox",
+  "page": 12,
+  "rect": [
+   53,
+   409,
+   64,
+   419
+  ],
+  "tooltip": "Check all types of unearned income that apply from these examples (there may be others not\nlisted here):  Social Security",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  222",
+  "type": "checkbox",
+  "page": 12,
+  "rect": [
+   53,
+   394,
+   64,
+   405
+  ],
+  "tooltip": "SSi/SSP",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  223",
+  "type": "checkbox",
+  "page": 12,
+  "rect": [
+   53,
+   379,
+   64,
+   390
+  ],
+  "tooltip": "Cash Aid",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  224",
+  "type": "checkbox",
+  "page": 12,
+  "rect": [
+   53,
+   365,
+   64,
+   376
+  ],
+  "tooltip": "CalWORKs/TANF/GA/GR/CAPI\r",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  225",
+  "type": "checkbox",
+  "page": 12,
+  "rect": [
+   53,
+   351,
+   64,
+   362
+  ],
+  "tooltip": "Room and board (from your renter)\r\r",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  226",
+  "type": "checkbox",
+  "page": 12,
+  "rect": [
+   53,
+   337,
+   64,
+   347
+  ],
+  "tooltip": "Pension",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  227",
+  "type": "checkbox",
+  "page": 12,
+  "rect": [
+   53,
+   321,
+   64,
+   332
+  ],
+  "tooltip": "Child/Spousal support",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  228",
+  "type": "checkbox",
+  "page": 12,
+  "rect": [
+   53,
+   308,
+   64,
+   319
+  ],
+  "tooltip": "Government/railroad disability or retirement",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  229",
+  "type": "checkbox",
+  "page": 12,
+  "rect": [
+   229,
+   408,
+   239,
+   419
+  ],
+  "tooltip": "Veteran benefits, or Military pension\r",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  230",
+  "type": "checkbox",
+  "page": 12,
+  "rect": [
+   229,
+   391,
+   239,
+   402
+  ],
+  "tooltip": "Financial aid (school grants/loans/scholarships)",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  231",
+  "type": "checkbox",
+  "page": 12,
+  "rect": [
+   229,
+   363,
+   239,
+   374
+  ],
+  "tooltip": "Gift of money",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  232",
+  "type": "checkbox",
+  "page": 12,
+  "rect": [
+   229,
+   346,
+   239,
+   357
+  ],
+  "tooltip": "Unemployment Insurance/State Disability Insurance (SDI)",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  234",
+  "type": "checkbox",
+  "page": 12,
+  "rect": [
+   229,
+   318,
+   239,
+   328
+  ],
+  "tooltip": "Worker\u2019s compensation\r",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  235",
+  "type": "checkbox",
+  "page": 12,
+  "rect": [
+   413,
+   409,
+   424,
+   419
+  ],
+  "tooltip": "Lottery/gambling winnings\r",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  236",
+  "type": "checkbox",
+  "page": 12,
+  "rect": [
+   413,
+   393,
+   424,
+   404
+  ],
+  "tooltip": "Help with rent/food/clothing",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  237",
+  "type": "checkbox",
+  "page": 12,
+  "rect": [
+   413,
+   379,
+   424,
+   390
+  ],
+  "tooltip": "Insurance or legal settlements",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  238",
+  "type": "checkbox",
+  "page": 12,
+  "rect": [
+   413,
+   365,
+   424,
+   375
+  ],
+  "tooltip": "Private disability or retirement\r",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  239",
+  "type": "checkbox",
+  "page": 12,
+  "rect": [
+   413,
+   351,
+   424,
+   362
+  ],
+  "tooltip": "Strike benefits",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  240",
+  "type": "checkbox",
+  "page": 12,
+  "rect": [
+   413,
+   336,
+   424,
+   347
+  ],
+  "tooltip": "Other",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  241",
+  "type": "text",
+  "page": 12,
+  "rect": [
+   457,
+   335,
+   564,
+   345
+  ],
+  "tooltip": "List other, line 1 of 2",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  242",
+  "type": "text",
+  "page": 12,
+  "rect": [
+   431,
+   324,
+   566,
+   335
+  ],
+  "tooltip": "List other, line 2 of 2",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  243",
+  "type": "text",
+  "page": 12,
+  "rect": [
+   37,
+   216,
+   166,
+   248
+  ],
+  "tooltip": "Person getting the money, line 1 of 4",
+  "on": null,
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  244",
+  "type": "text",
+  "page": 12,
+  "rect": [
+   166,
+   215,
+   310,
+   248
+  ],
+  "tooltip": "From where? line 1 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  245",
+  "type": "text",
+  "page": 12,
+  "rect": [
+   314,
+   227,
+   383,
+   237
+  ],
+  "tooltip": "How much money? line 1 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  246",
+  "type": "text",
+  "page": 12,
+  "rect": [
+   384,
+   226,
+   484,
+   237
+  ],
+  "tooltip": "How often received? (once, weekly, monthly, or other) Line 1 of 4",
+  "on": null,
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  247",
+  "type": "checkbox",
+  "page": 12,
+  "rect": [
+   491,
+   226,
+   501,
+   237
+  ],
+  "tooltip": "Expect to continue?  (Please check one) Yes Line 1 of 4",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  248",
+  "type": "checkbox",
+  "page": 12,
+  "rect": [
+   522,
+   226,
+   533,
+   237
+  ],
+  "tooltip": "No, Line 1 of 4",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  249",
+  "type": "text",
+  "page": 12,
+  "rect": [
+   37,
+   184,
+   166,
+   215
+  ],
+  "tooltip": "Person getting the money, line 2 of 4",
+  "on": null,
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  250",
+  "type": "text",
+  "page": 12,
+  "rect": [
+   166,
+   183,
+   310,
+   215
+  ],
+  "tooltip": "From where? line 2 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  251",
+  "type": "text",
+  "page": 12,
+  "rect": [
+   314,
+   194,
+   383,
+   205
+  ],
+  "tooltip": "How much money? line 2 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  252",
+  "type": "text",
+  "page": 12,
+  "rect": [
+   384,
+   194,
+   484,
+   205
+  ],
+  "tooltip": "How often received? (once, weekly, monthly, or other)",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  253",
+  "type": "checkbox",
+  "page": 12,
+  "rect": [
+   491,
+   194,
+   501,
+   205
+  ],
+  "tooltip": "Expect to continue?   (Please check one) Yes Line 2 of 4",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  254",
+  "type": "checkbox",
+  "page": 12,
+  "rect": [
+   522,
+   194,
+   533,
+   205
+  ],
+  "tooltip": "No, Line 2 of 4",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  255",
+  "type": "text",
+  "page": 12,
+  "rect": [
+   37,
+   150,
+   166,
+   182
+  ],
+  "tooltip": "Person getting the money, line 3 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  256",
+  "type": "text",
+  "page": 12,
+  "rect": [
+   166,
+   150,
+   310,
+   182
+  ],
+  "tooltip": "From where? line 3 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  257",
+  "type": "text",
+  "page": 12,
+  "rect": [
+   314,
+   161,
+   383,
+   172
+  ],
+  "tooltip": "How much money? line 3 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  258",
+  "type": "text",
+  "page": 12,
+  "rect": [
+   384,
+   161,
+   484,
+   172
+  ],
+  "tooltip": "How often received? (once, weekly, monthly, or other)",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  259",
+  "type": "checkbox",
+  "page": 12,
+  "rect": [
+   491,
+   161,
+   501,
+   172
+  ],
+  "tooltip": "Expect to continue?  (Please check one) Yes line 3 of 4",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  260",
+  "type": "checkbox",
+  "page": 12,
+  "rect": [
+   522,
+   161,
+   533,
+   172
+  ],
+  "tooltip": "No, Line 3 of 4",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  261",
+  "type": "text",
+  "page": 12,
+  "rect": [
+   37,
+   118,
+   166,
+   150
+  ],
+  "tooltip": "Person getting the money, line 4 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  262",
+  "type": "text",
+  "page": 12,
+  "rect": [
+   166,
+   117,
+   310,
+   150
+  ],
+  "tooltip": "From where? line 4 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  263",
+  "type": "text",
+  "page": 12,
+  "rect": [
+   314,
+   129,
+   383,
+   140
+  ],
+  "tooltip": "How much money? line 4 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  264",
+  "type": "text",
+  "page": 12,
+  "rect": [
+   384,
+   128,
+   484,
+   139
+  ],
+  "tooltip": "How often received? (once, weekly, monthly, or other)",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  265",
+  "type": "checkbox",
+  "page": 12,
+  "rect": [
+   491,
+   128,
+   501,
+   139
+  ],
+  "tooltip": "Expect to continue?  (Please check one) Yes Line 4 of 4",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  266",
+  "type": "checkbox",
+  "page": 12,
+  "rect": [
+   522,
+   128,
+   533,
+   139
+  ],
+  "tooltip": "No, Line 4 of 4",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  267",
+  "type": "text",
+  "page": 12,
+  "rect": [
+   37,
+   39,
+   577,
+   102
+  ],
+  "tooltip": "If this income is not expected to continue, please explain:",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  269",
+  "type": "checkbox",
+  "page": 13,
+  "rect": [
+   494,
+   719,
+   505,
+   730
+  ],
+  "tooltip": "8. Earned Income Do you or anyone you buy and prepare food with get income from a job (earned income)? (Please check one.) Yes",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  270",
+  "type": "checkbox",
+  "page": 13,
+  "rect": [
+   531,
+   719,
+   542,
+   729
+  ],
+  "tooltip": "No, exit forms mode",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  271",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   37,
+   547,
+   149,
+   577
+  ],
+  "tooltip": "Person working, line 1 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  272",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   150,
+   547,
+   243,
+   577
+  ],
+  "tooltip": "Employer\u2019s name and address, line 1 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  273",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   244,
+   549,
+   314,
+   577
+  ],
+  "tooltip": "Employer\u2019s area code and phone number, line 1 of 4",
+  "on": null,
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  274",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   320,
+   556,
+   356,
+   567
+  ],
+  "tooltip": "Hourly Rate, line 1 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  275",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   357,
+   556,
+   400,
+   567
+  ],
+  "tooltip": "Average hours per week, line 1 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  276",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   400,
+   556,
+   468,
+   567
+  ],
+  "tooltip": "How often paid? (once, weekly, monthly or other)",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  277",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   474,
+   557,
+   523,
+   568
+  ],
+  "tooltip": "Total gross earned income received this month, line 1 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  278",
+  "type": "checkbox",
+  "page": 13,
+  "rect": [
+   533,
+   563,
+   544,
+   574
+  ],
+  "tooltip": "Expect to continue? (Please check one.) Yes  Line 1 of 4",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  279",
+  "type": "checkbox",
+  "page": 13,
+  "rect": [
+   533,
+   550,
+   543,
+   561
+  ],
+  "tooltip": "No, line 1 of 4",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  280",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   37,
+   520,
+   149,
+   550
+  ],
+  "tooltip": "Person working, line 2 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  281",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   150,
+   519,
+   243,
+   550
+  ],
+  "tooltip": "Employer\u2019s name and address, line 2 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  282",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   244,
+   520,
+   314,
+   548
+  ],
+  "tooltip": "Employer\u2019s area code and phone number, line 2 of 4",
+  "on": null,
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  283",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   320,
+   529,
+   356,
+   540
+  ],
+  "tooltip": "Hourly Rate, line 2 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  284",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   357,
+   527,
+   400,
+   538
+  ],
+  "tooltip": "Average hours per week, line 2 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  285",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   400,
+   527,
+   468,
+   538
+  ],
+  "tooltip": "How often paid? (once, weekly, monthly, or other)",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  286",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   474,
+   530,
+   523,
+   540
+  ],
+  "tooltip": "Total gross earned income received this month, line 2 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  287",
+  "type": "checkbox",
+  "page": 13,
+  "rect": [
+   533,
+   535,
+   544,
+   546
+  ],
+  "tooltip": "Expect to continue? (Please check one.) Yes Line 2 of 4",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  288",
+  "type": "checkbox",
+  "page": 13,
+  "rect": [
+   533,
+   523,
+   543,
+   534
+  ],
+  "tooltip": "No, line 2 of 4",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  289",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   37,
+   493,
+   149,
+   523
+  ],
+  "tooltip": "Person working, line 3 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  290",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   150,
+   493,
+   243,
+   524
+  ],
+  "tooltip": "Employer\u2019s name and address, line 3 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  291",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   244,
+   494,
+   314,
+   522
+  ],
+  "tooltip": "Employer\u2019s area code and phone number, line 3 of 4",
+  "on": null,
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  292",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   320,
+   502,
+   356,
+   513
+  ],
+  "tooltip": "Hourly Rate, line 3 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  293",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   357,
+   501,
+   400,
+   512
+  ],
+  "tooltip": "Average hours per week, line 3 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  294",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   400,
+   501,
+   468,
+   512
+  ],
+  "tooltip": "How often paid? (once, weekly, monthly, or other)",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  295",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   474,
+   502,
+   523,
+   513
+  ],
+  "tooltip": "Total gross earned income received this month, line 3 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  296",
+  "type": "checkbox",
+  "page": 13,
+  "rect": [
+   533,
+   508,
+   544,
+   519
+  ],
+  "tooltip": "Expect to continue? (Please check one.) Yes Line 3 of 4",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  297",
+  "type": "checkbox",
+  "page": 13,
+  "rect": [
+   533,
+   496,
+   543,
+   506
+  ],
+  "tooltip": "No, line 3 of 4",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  298",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   37,
+   466,
+   149,
+   496
+  ],
+  "tooltip": "Person working, line 4 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  299",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   150,
+   465,
+   243,
+   496
+  ],
+  "tooltip": "Employer\u2019s name and address, line 4 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  300",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   244,
+   467,
+   314,
+   495
+  ],
+  "tooltip": "Employer\u2019s area code and phone number, line 4 of 4",
+  "on": null,
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  301",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   320,
+   475,
+   356,
+   486
+  ],
+  "tooltip": "Hourly Rate, line 4 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  302",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   357,
+   474,
+   400,
+   485
+  ],
+  "tooltip": "Average hours per week, line 4 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  303",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   400,
+   474,
+   468,
+   485
+  ],
+  "tooltip": "How often paid? (once, weekly, monthly, or other)",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  304",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   474,
+   475,
+   523,
+   486
+  ],
+  "tooltip": "Total gross earned income received this month, line 4 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  305",
+  "type": "checkbox",
+  "page": 13,
+  "rect": [
+   533,
+   481,
+   544,
+   492
+  ],
+  "tooltip": "Expect to continue? (Please check one.) Yes line 4 of 4",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  306",
+  "type": "checkbox",
+  "page": 13,
+  "rect": [
+   532,
+   469,
+   543,
+   479
+  ],
+  "tooltip": "No, line 4 of 4",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  307",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   37,
+   404,
+   577,
+   452
+  ],
+  "tooltip": "If this income is not expected to continue, please explain:",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  308",
+  "type": "checkbox",
+  "page": 13,
+  "rect": [
+   496,
+   388,
+   507,
+   399
+  ],
+  "tooltip": "Has anyone lost a job, changed jobs, quit a job, or reduced work hours within the last 60 days?  (Please check one.) Yes",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  309",
+  "type": "checkbox",
+  "page": 13,
+  "rect": [
+   529,
+   388,
+   540,
+   399
+  ],
+  "tooltip": "No",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  3010",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   36,
+   356,
+   217,
+   372
+  ],
+  "tooltip": "If Yes, who?",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  311",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   217,
+   356,
+   397,
+   372
+  ],
+  "tooltip": "Date of job loss, quit or change",
+  "on": null,
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  312",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   397,
+   356,
+   576,
+   372
+  ],
+  "tooltip": "Date of last pay",
+  "on": null,
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  313",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   37,
+   332,
+   575,
+   347
+  ],
+  "tooltip": "Reason?",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  314",
+  "type": "checkbox",
+  "page": 13,
+  "rect": [
+   196,
+   317,
+   207,
+   328
+  ],
+  "tooltip": "Is anyone on strike? (Please check one.) Yes",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  315",
+  "type": "checkbox",
+  "page": 13,
+  "rect": [
+   229,
+   317,
+   240,
+   328
+  ],
+  "tooltip": "No",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  316",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   37,
+   286,
+   217,
+   301
+  ],
+  "tooltip": "If Yes, who?",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  317",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   217,
+   286,
+   397,
+   301
+  ],
+  "tooltip": "Date went on strike",
+  "on": null,
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  318",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   397,
+   286,
+   577,
+   301
+  ],
+  "tooltip": "Date of last pay",
+  "on": null,
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  319",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   37,
+   262,
+   576,
+   277
+  ],
+  "tooltip": "Reason? Exit forms mode",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  320",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   37,
+   157,
+   161,
+   188
+  ],
+  "tooltip": "Person self-employed Line 1 of 5",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  321",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   161,
+   158,
+   230,
+   189
+  ],
+  "tooltip": "Date business started, line 1 of 5",
+  "on": null,
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  322",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   230,
+   158,
+   357,
+   189
+  ],
+  "tooltip": "Type of business and name, line 1 of 5",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  323",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   362,
+   168,
+   425,
+   179
+  ],
+  "tooltip": "Gross monthly income, line 1 of 5",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  324",
+  "type": "checkbox",
+  "page": 13,
+  "rect": [
+   427,
+   176,
+   438,
+   187
+  ],
+  "tooltip": "Self-employment expenses (Please check one.) 40% flat rate Line 1 of 5",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  325",
+  "type": "checkbox",
+  "page": 13,
+  "rect": [
+   427,
+   163,
+   438,
+   174
+  ],
+  "tooltip": "Actual expenses, line 1 of 5",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  326",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   516,
+   163,
+   574,
+   174
+  ],
+  "tooltip": "Enter dollar amount of actual expenses, line 1 of 5",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  327",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   37,
+   128,
+   161,
+   158
+  ],
+  "tooltip": "Person self-employed Line 2 of 5",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  328",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   161,
+   128,
+   229,
+   159
+  ],
+  "tooltip": "Date business started, line 2 of 5",
+  "on": null,
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  329",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   229,
+   128,
+   356,
+   159
+  ],
+  "tooltip": "Type of business and name, line 2 of 5",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  330",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   361,
+   138,
+   424,
+   149
+  ],
+  "tooltip": "Gross monthly income, line 2 of 5",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  331",
+  "type": "checkbox",
+  "page": 13,
+  "rect": [
+   426,
+   147,
+   437,
+   157
+  ],
+  "tooltip": "Self-employment expenses (Please check one.) 40% flat rate Line 2 of 5",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  332",
+  "type": "checkbox",
+  "page": 13,
+  "rect": [
+   427,
+   134,
+   437,
+   144
+  ],
+  "tooltip": "Actual expenses, line 2 of 5",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  333",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   515,
+   134,
+   573,
+   144
+  ],
+  "tooltip": "Enter dollar amount of actual expenses, line 2 of 5",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  334",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   37,
+   98,
+   161,
+   128
+  ],
+  "tooltip": "Person self-employed Line 3 of 5",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  335",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   161,
+   98,
+   229,
+   129
+  ],
+  "tooltip": "Date business started, line 3 of 5",
+  "on": null,
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  336",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   229,
+   98,
+   357,
+   129
+  ],
+  "tooltip": "Type of business and name, line 3 of 5",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  337",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   362,
+   108,
+   424,
+   119
+  ],
+  "tooltip": "Gross monthly income, line 3 of 5",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  338",
+  "type": "checkbox",
+  "page": 13,
+  "rect": [
+   426,
+   116,
+   437,
+   127
+  ],
+  "tooltip": "Self-employment expenses (Please check one.) 40% flat rate Line 3 of 5",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  339",
+  "type": "checkbox",
+  "page": 13,
+  "rect": [
+   427,
+   103,
+   438,
+   114
+  ],
+  "tooltip": "Actual expenses, line 3 of 5",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  340",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   515,
+   103,
+   573,
+   114
+  ],
+  "tooltip": "Enter dollar amount of actual expenses, line 3 of 5",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  341",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   37,
+   68,
+   161,
+   98
+  ],
+  "tooltip": "Person self-employed Line 4 of 5",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  342",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   161,
+   68,
+   230,
+   99
+  ],
+  "tooltip": "Date business started, line 4 of 5",
+  "on": null,
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  343",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   230,
+   68,
+   357,
+   99
+  ],
+  "tooltip": "Type of business and name, line 4 of 5",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  344",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   362,
+   78,
+   425,
+   89
+  ],
+  "tooltip": "Gross monthly income, line 4 of 5",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  345",
+  "type": "checkbox",
+  "page": 13,
+  "rect": [
+   427,
+   86,
+   438,
+   97
+  ],
+  "tooltip": "Self-employment expenses (Please check one.) 40% flat rate Line 4 of 5",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  346",
+  "type": "checkbox",
+  "page": 13,
+  "rect": [
+   427,
+   74,
+   438,
+   84
+  ],
+  "tooltip": "Actual expenses, line 4 of 5",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  347",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   516,
+   74,
+   574,
+   84
+  ],
+  "tooltip": "Enter dollar amount of actual expenses, line 4 of 5",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  348",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   37,
+   37,
+   161,
+   68
+  ],
+  "tooltip": "Person self-employed Line 5 of 5",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  349",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   161,
+   37,
+   230,
+   68
+  ],
+  "tooltip": "Date business started, line 5 of 5",
+  "on": null,
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  350",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   230,
+   37,
+   357,
+   68
+  ],
+  "tooltip": "Type of business and name, line 5 of 5",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  351",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   362,
+   48,
+   425,
+   58
+  ],
+  "tooltip": "Gross monthly income, line 5 of 5",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  352",
+  "type": "checkbox",
+  "page": 13,
+  "rect": [
+   427,
+   56,
+   438,
+   67
+  ],
+  "tooltip": "Self-employment expenses (Please check one.) 40% flat rate line 5 of 5",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  353",
+  "type": "checkbox",
+  "page": 13,
+  "rect": [
+   427,
+   43,
+   438,
+   54
+  ],
+  "tooltip": "Actual expenses, line 5 of 5",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  354",
+  "type": "text",
+  "page": 13,
+  "rect": [
+   516,
+   42,
+   574,
+   53
+  ],
+  "tooltip": "Enter dollar amount of actual expenses, line 5 of 5",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  355",
+  "type": "checkbox",
+  "page": 14,
+  "rect": [
+   518,
+   706,
+   528,
+   717
+  ],
+  "tooltip": "9. Household\u2019s Child/Adult Care Expenses  Do you or anyone you buy and prepare food with pay for the care of a child, disabled adult, or other dependent so you or the other person can go to work, school, training, or look for a job? (Please check one.) Yes, If yes, please answer this question.",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  356",
+  "type": "checkbox",
+  "page": 14,
+  "rect": [
+   550,
+   705,
+   561,
+   716
+  ],
+  "tooltip": "No,  If no, skip to question#10.",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  357",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   37,
+   634,
+   189,
+   654
+  ],
+  "tooltip": "Who gets care?, line 1 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  358",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   189,
+   634,
+   434,
+   654
+  ],
+  "tooltip": "Who gives care? (Name and address of provider) Line 1 of 4 ",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  359",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   438,
+   639,
+   496,
+   650
+  ],
+  "tooltip": "Amount paid, line 1 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  360",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   497,
+   639,
+   576,
+   649
+  ],
+  "tooltip": "How often paid? (weekly, monthly, other) Line 1 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  361",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   37,
+   612,
+   189,
+   633
+  ],
+  "tooltip": "Who gets care?, line 2 of 4",
+  "on": null,
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  362",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   189,
+   612,
+   434,
+   632
+  ],
+  "tooltip": "Who gives care? (name and address of provider) Line 2 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  363",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   438,
+   617,
+   496,
+   628
+  ],
+  "tooltip": "Amount paid, line 2 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  364",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   497,
+   617,
+   576,
+   628
+  ],
+  "tooltip": "How often paid? (weekly, monthly, other) Line 2 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  365",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   37,
+   590,
+   189,
+   611
+  ],
+  "tooltip": "Who gets care?, line 3 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  366",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   189,
+   590,
+   434,
+   610
+  ],
+  "tooltip": "Who gives care? (Name and address of provider) Line 3 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  367",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   438,
+   596,
+   496,
+   606
+  ],
+  "tooltip": "Amount paid, line 3 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  368",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   496,
+   595,
+   576,
+   606
+  ],
+  "tooltip": "How often paid? (weekly, monthly other) Line 3 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  369",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   37,
+   570,
+   189,
+   590
+  ],
+  "tooltip": "Who gets care?, line 4 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  370",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   189,
+   570,
+   434,
+   590
+  ],
+  "tooltip": "Who gives care? (Name and address of provider) Line 4 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  371",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   438,
+   575,
+   496,
+   586
+  ],
+  "tooltip": "Amount paid, line 4 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  372",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   497,
+   575,
+   576,
+   585
+  ],
+  "tooltip": "How often paid? (weekly, monthly, other) Line 4 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  373",
+  "type": "checkbox",
+  "page": 14,
+  "rect": [
+   414,
+   552,
+   425,
+   562
+  ],
+  "tooltip": "Does anyone help your household pay all or part of your child/adult care costs listed above? (Please check one.) Yes, If yes, please answer the following questions.",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  374",
+  "type": "checkbox",
+  "page": 14,
+  "rect": [
+   448,
+   552,
+   459,
+   563
+  ],
+  "tooltip": "No, skip to question #10.",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  375",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   37,
+   490,
+   189,
+   513
+  ],
+  "tooltip": "Who gets care?, line 1 of 2",
+  "on": null,
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  376",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   189,
+   491,
+   435,
+   513
+  ],
+  "tooltip": "Who helps pay?, line 1 of 2",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  377",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   439,
+   496,
+   497,
+   507
+  ],
+  "tooltip": "Amount paid, line 1 of 2",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  378",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   498,
+   497,
+   575,
+   508
+  ],
+  "tooltip": "How often paid? (weekly, monthly, other) Line 1 of 2",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  379",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   37,
+   468,
+   189,
+   491
+  ],
+  "tooltip": "Who gets care?, line 2 of 2",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  380",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   189,
+   469,
+   435,
+   491
+  ],
+  "tooltip": "Who helps pay?, line 2 of 2",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  381",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   439,
+   474,
+   497,
+   485
+  ],
+  "tooltip": "Amount paid, line 2 of 2",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  382",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   498,
+   475,
+   575,
+   486
+  ],
+  "tooltip": "How often paid? (weekly, monthly, other) Line 2 of 2",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  383",
+  "type": "checkbox",
+  "page": 14,
+  "rect": [
+   54,
+   431,
+   65,
+   442
+  ],
+  "tooltip": "10. Child Support Payments  Are you or anyone you buy and prepare food with legally obligated to pay child support, including back child support? (Please check one.) Yes, If yes, please answer the following questions.",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  384",
+  "type": "checkbox",
+  "page": 14,
+  "rect": [
+   85,
+   431,
+   96,
+   441
+  ],
+  "tooltip": "No,  If no, skip to question #11.",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  385",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   36,
+   373,
+   189,
+   393
+  ],
+  "tooltip": "Who pays child support? line 1 of 2",
+  "on": null,
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  386",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   189,
+   372,
+   434,
+   393
+  ],
+  "tooltip": "Name of child(ren) for whom child support is paid, line 1 of 2",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  387",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   441,
+   378,
+   496,
+   388
+  ],
+  "tooltip": "Amount paid, line 1 of 2",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  388",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   496,
+   378,
+   575,
+   389
+  ],
+  "tooltip": "How often paid? (weekly, monthly, other) Line 1 of 2",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  389",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   37,
+   351,
+   190,
+   372
+  ],
+  "tooltip": "Who pays child support? line 2 of 2",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  390",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   190,
+   350,
+   435,
+   371
+  ],
+  "tooltip": "Name of child(ren) for whom child support is paid, line 2 of 2",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  391",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   441,
+   356,
+   497,
+   367
+  ],
+  "tooltip": "Amount paid, line 2 of 2",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  392",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   497,
+   356,
+   576,
+   367
+  ],
+  "tooltip": "How often paid? (weekly, monthly, other) Line 2 of 2",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  393",
+  "type": "checkbox",
+  "page": 14,
+  "rect": [
+   429,
+   323,
+   440,
+   334
+  ],
+  "tooltip": "11. Household Expenses, Are you or anyone you buy and prepare food with responsible for any household expenses? (Please check one.) Yes If yes, please answer this question.",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  393b",
+  "type": "checkbox",
+  "page": 14,
+  "rect": [
+   459,
+   324,
+   470,
+   334
+  ],
+  "tooltip": "No if no, skip to question #12.",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  393a 2",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   37,
+   296,
+   51,
+   312
+  ],
+  "tooltip": "NOTE:  Do not enter amounts paid by housing assistance such as HUD or Section 8.  The heating and cooling, telephone, other utilities, and the homeless shelter are set allowances and you do not need to fill in the actual amount owed.",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  393b 2",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   158,
+   235,
+   168,
+   248
+  ],
+  "tooltip": "Type of expenses - Rent or house payment, please answer the following questions for this expense.",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  395",
+  "type": "checkbox",
+  "page": 14,
+  "rect": [
+   240,
+   234,
+   251,
+   245
+  ],
+  "tooltip": "Have Expense? (Please check one.) Yes",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  396",
+  "type": "checkbox",
+  "page": 14,
+  "rect": [
+   271,
+   235,
+   282,
+   245
+  ],
+  "tooltip": "No",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  397",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   299,
+   230,
+   433,
+   250
+  ],
+  "tooltip": "Who pays?",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  398",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   437,
+   235,
+   495,
+   246
+  ],
+  "tooltip": "Amount owed?",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  399",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   495,
+   235,
+   575,
+   246
+  ],
+  "tooltip": "How often billed? (weekly, monthly, other)",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  400",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   202,
+   207,
+   215,
+   218
+  ],
+  "tooltip": "Type of expenses - Property taxes and insurance (if billed separately from rent or mortgage), please answer the following questions for this expense.",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  401",
+  "type": "checkbox",
+  "page": 14,
+  "rect": [
+   240,
+   212,
+   251,
+   223
+  ],
+  "tooltip": "Have Expense? (Please check one.) Yes",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  402",
+  "type": "checkbox",
+  "page": 14,
+  "rect": [
+   271,
+   212,
+   282,
+   223
+  ],
+  "tooltip": "No",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  403",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   299,
+   205,
+   434,
+   230
+  ],
+  "tooltip": "Who pays?",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  404",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   438,
+   213,
+   495,
+   224
+  ],
+  "tooltip": "Amount owed?",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  405",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   496,
+   213,
+   577,
+   224
+  ],
+  "tooltip": "How often billed? (weekly, monthly, other)",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  406",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   216,
+   172,
+   230,
+   182
+  ],
+  "tooltip": "Type of expenses - Gas, electric, or other fuel used for heating or cooling, such as firewood or propane (if billed separately from rent or mortgage), please answer the following questions for this expense.",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  408",
+  "type": "checkbox",
+  "page": 14,
+  "rect": [
+   240,
+   183,
+   251,
+   193
+  ],
+  "tooltip": "Have Expense? (Please check one.) Yes",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  409",
+  "type": "checkbox",
+  "page": 14,
+  "rect": [
+   272,
+   183,
+   283,
+   194
+  ],
+  "tooltip": "No",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  4010",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   298,
+   170,
+   434,
+   206
+  ],
+  "tooltip": "Who pays?",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  411",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   497,
+   185,
+   576,
+   196
+  ],
+  "tooltip": "How often billed? (weekly, monthly, other)",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  412",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   176,
+   152,
+   190,
+   168
+  ],
+  "tooltip": "Type of expenses - Telephone/cell phone, please answer the following questions for this expense.",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  413",
+  "type": "checkbox",
+  "page": 14,
+  "rect": [
+   240,
+   155,
+   251,
+   166
+  ],
+  "tooltip": "Have Expense? (Please check one.) Yes",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  414",
+  "type": "checkbox",
+  "page": 14,
+  "rect": [
+   271,
+   156,
+   282,
+   166
+  ],
+  "tooltip": "No",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  415",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   298,
+   150,
+   434,
+   170
+  ],
+  "tooltip": "Who pays?",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  416",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   497,
+   156,
+   576,
+   167
+  ],
+  "tooltip": "How often billed? (weekly, monthly, other)",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  417",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   194,
+   133,
+   208,
+   149
+  ],
+  "tooltip": "Type of expenses - Homeless Shelter Expense, please answer the following questions for this expense.",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  418",
+  "type": "checkbox",
+  "page": 14,
+  "rect": [
+   240,
+   135,
+   251,
+   146
+  ],
+  "tooltip": "Have Expense? (Please check one.) Yes",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  419",
+  "type": "checkbox",
+  "page": 14,
+  "rect": [
+   271,
+   135,
+   282,
+   146
+  ],
+  "tooltip": "No",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  420",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   299,
+   130,
+   433,
+   150
+  ],
+  "tooltip": "Who pays?",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  421",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   497,
+   135,
+   576,
+   146
+  ],
+  "tooltip": "How often billed? (weekly, monthly, other)",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  422",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   204,
+   117,
+   217,
+   129
+  ],
+  "tooltip": "Type of expenses - Water, sewage, garbage, please answer the following questions for this expense.",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  423",
+  "type": "checkbox",
+  "page": 14,
+  "rect": [
+   240,
+   115,
+   251,
+   126
+  ],
+  "tooltip": "Have Expense? (Please check one.) Yes",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  424",
+  "type": "checkbox",
+  "page": 14,
+  "rect": [
+   271,
+   114,
+   282,
+   125
+  ],
+  "tooltip": "No",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  425",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   298,
+   110,
+   433,
+   131
+  ],
+  "tooltip": "Who pays?",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  426",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   496,
+   116,
+   575,
+   126
+  ],
+  "tooltip": "How often billed? (weekly, monthly, other)",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  427",
+  "type": "checkbox",
+  "page": 14,
+  "rect": [
+   38,
+   75,
+   49,
+   86
+  ],
+  "tooltip": "Does anyone not in your household help you pay for the expenses listed above?  (please check one) Yes",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  429",
+  "type": "checkbox",
+  "page": 14,
+  "rect": [
+   68,
+   75,
+   79,
+   86
+  ],
+  "tooltip": "No",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  430",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   300,
+   73,
+   434,
+   100
+  ],
+  "tooltip": "Who helps pays?",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  407",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   438,
+   78,
+   496,
+   89
+  ],
+  "tooltip": "How much?",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  431",
+  "type": "text",
+  "page": 14,
+  "rect": [
+   496,
+   78,
+   575,
+   88
+  ],
+  "tooltip": "How often paid?",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  428",
+  "type": "checkbox",
+  "page": 14,
+  "rect": [
+   112,
+   46,
+   123,
+   57
+  ],
+  "tooltip": "Does your household receive, or expect to receive, payment from the Low Income Home Energy Assistance Program (LIHEAP)? (Please check one.) Yes",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  433",
+  "type": "checkbox",
+  "page": 14,
+  "rect": [
+   144,
+   45,
+   155,
+   56
+  ],
+  "tooltip": "No",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  434",
+  "type": "checkbox",
+  "page": 15,
+  "rect": [
+   104,
+   704,
+   115,
+   715
+  ],
+  "tooltip": "12. Medical Expenses - Are you or anyone you buy and prepare food with an elderly (60 or older) or disabled person that has any out-of-pocket medical expenses? (Please check one.) Yes, If yes, please answer this question.",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  435",
+  "type": "checkbox",
+  "page": 15,
+  "rect": [
+   135,
+   703,
+   146,
+   714
+  ],
+  "tooltip": "No,   If no, skip to question #13",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  436",
+  "type": "checkbox",
+  "page": 15,
+  "rect": [
+   36,
+   648,
+   47,
+   658
+  ],
+  "tooltip": "List any expenses you expect to have in the near future. allowable medical expenses are (check all that apply): Medical or dental care",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  437",
+  "type": "checkbox",
+  "page": 15,
+  "rect": [
+   36,
+   633,
+   47,
+   644
+  ],
+  "tooltip": "Hospitalization/outpatient treatment/nursing care",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  438",
+  "type": "checkbox",
+  "page": 15,
+  "rect": [
+   36,
+   610,
+   47,
+   621
+  ],
+  "tooltip": "Prescribed medications\r",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  439",
+  "type": "checkbox",
+  "page": 15,
+  "rect": [
+   36,
+   595,
+   47,
+   606
+  ],
+  "tooltip": "Health and Hospitalization insurance policy premiums",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  440",
+  "type": "checkbox",
+  "page": 15,
+  "rect": [
+   197,
+   648,
+   208,
+   659
+  ],
+  "tooltip": "Medicare premiums\n(Medi-Cal share of costs, etc.)",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  441",
+  "type": "checkbox",
+  "page": 15,
+  "rect": [
+   197,
+   626,
+   208,
+   637
+  ],
+  "tooltip": "Dentures, hearing aids and prosthetics",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  442",
+  "type": "checkbox",
+  "page": 15,
+  "rect": [
+   197,
+   613,
+   208,
+   624
+  ],
+  "tooltip": "Maintaining an attendant necessary due to age, illness, or infirmity",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  443",
+  "type": "checkbox",
+  "page": 15,
+  "rect": [
+   197,
+   592,
+   208,
+   603
+  ],
+  "tooltip": "The number and cost of meals furnished to an attendant\r",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  444",
+  "type": "checkbox",
+  "page": 15,
+  "rect": [
+   197,
+   570,
+   208,
+   580
+  ],
+  "tooltip": "Prescribed over the counter medications\r",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  445",
+  "type": "checkbox",
+  "page": 15,
+  "rect": [
+   398,
+   649,
+   409,
+   660
+  ],
+  "tooltip": "Cost of transportation (mileage or fee) and lodging to obtain medical treatment or services",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  446",
+  "type": "checkbox",
+  "page": 15,
+  "rect": [
+   398,
+   617,
+   409,
+   628
+  ],
+  "tooltip": "Prescribed eye glasses and contact lenses",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  447",
+  "type": "checkbox",
+  "page": 15,
+  "rect": [
+   398,
+   595,
+   409,
+   606
+  ],
+  "tooltip": "Prescribed medical supplies and equipment",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  448",
+  "type": "checkbox",
+  "page": 15,
+  "rect": [
+   398,
+   572,
+   409,
+   583
+  ],
+  "tooltip": "Service animals expenses\n(food, vet bills, etc.)",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  449",
+  "type": "text",
+  "page": 15,
+  "rect": [
+   37,
+   485,
+   186,
+   518
+  ],
+  "tooltip": "Name of elderly/disabled person, line 1 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  450",
+  "type": "text",
+  "page": 15,
+  "rect": [
+   190,
+   493,
+   238,
+   508
+  ],
+  "tooltip": "Amount of expense, line 1 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  451",
+  "type": "text",
+  "page": 15,
+  "rect": [
+   239,
+   491,
+   311,
+   507
+  ],
+  "tooltip": "How often paid? (weekly, monthly, other) Line 1 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  452",
+  "type": "text",
+  "page": 15,
+  "rect": [
+   312,
+   485,
+   417,
+   518
+  ],
+  "tooltip": "What type of expense? (Prescriptions, dentures, number of meals for attendant, etc.) line 1 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  453",
+  "type": "text",
+  "page": 15,
+  "rect": [
+   468,
+   501,
+   578,
+   518
+  ],
+  "tooltip": "Will the household be reimbursed for any medical expenses? (By Medi-Cal, insurance, family member, etc.)  If yes, by who? Line 1 of 4 ",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  454",
+  "type": "text",
+  "page": 15,
+  "rect": [
+   468,
+   485,
+   578,
+   502
+  ],
+  "tooltip": "Enter how much money will be reimbursed, line 1 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  455",
+  "type": "text",
+  "page": 15,
+  "rect": [
+   37,
+   452,
+   186,
+   485
+  ],
+  "tooltip": "Name of elderly/disabled person, line 2 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  456",
+  "type": "text",
+  "page": 15,
+  "rect": [
+   191,
+   460,
+   239,
+   476
+  ],
+  "tooltip": "Amount of expense, line 2 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  457",
+  "type": "text",
+  "page": 15,
+  "rect": [
+   239,
+   459,
+   311,
+   474
+  ],
+  "tooltip": "How often paid? (weekly, monthly, other) Line 2 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  458",
+  "type": "text",
+  "page": 15,
+  "rect": [
+   312,
+   452,
+   417,
+   485
+  ],
+  "tooltip": "What type of expense? (Prescriptions, dentures, number of meals for attendant, etc.) line 2 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  459",
+  "type": "text",
+  "page": 15,
+  "rect": [
+   468,
+   468,
+   578,
+   485
+  ],
+  "tooltip": "Will the household be reimbursed for any medical expenses? (By Medi-Cal, insurance, family member, etc.)  If yes, by who? Line 2 of 4 ",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  460",
+  "type": "text",
+  "page": 15,
+  "rect": [
+   468,
+   452,
+   578,
+   469
+  ],
+  "tooltip": "Enter how much money will be reimbursed, line 2 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  461",
+  "type": "text",
+  "page": 15,
+  "rect": [
+   37,
+   419,
+   186,
+   452
+  ],
+  "tooltip": "Name of elderly/disabled person, line 3 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  462",
+  "type": "text",
+  "page": 15,
+  "rect": [
+   190,
+   427,
+   238,
+   442
+  ],
+  "tooltip": "Amount of expense, line 3 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  463",
+  "type": "text",
+  "page": 15,
+  "rect": [
+   239,
+   425,
+   311,
+   441
+  ],
+  "tooltip": "How often paid? (weekly, monthly, other) Line 3 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  464",
+  "type": "text",
+  "page": 15,
+  "rect": [
+   312,
+   419,
+   417,
+   451
+  ],
+  "tooltip": "What type of expense? (Prescriptions, dentures, number of meals for attendant, etc.) line 3 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  465",
+  "type": "text",
+  "page": 15,
+  "rect": [
+   468,
+   435,
+   578,
+   451
+  ],
+  "tooltip": "Will the household be reimbursed for any medical expenses? (By Medi-Cal, insurance, family member, etc.)  If yes, by who? Line 3 of 4 ",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  466",
+  "type": "text",
+  "page": 15,
+  "rect": [
+   468,
+   418,
+   578,
+   436
+  ],
+  "tooltip": "Enter how much money will be reimbursed, line 3 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  467",
+  "type": "text",
+  "page": 15,
+  "rect": [
+   37,
+   386,
+   186,
+   418
+  ],
+  "tooltip": "Name of elderly/disabled person, line 4 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  468",
+  "type": "text",
+  "page": 15,
+  "rect": [
+   190,
+   393,
+   238,
+   409
+  ],
+  "tooltip": "Amount of expense, line 4 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  469",
+  "type": "text",
+  "page": 15,
+  "rect": [
+   238,
+   392,
+   310,
+   408
+  ],
+  "tooltip": "How often paid? (weekly, monthly, other) Line 4 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  470",
+  "type": "text",
+  "page": 15,
+  "rect": [
+   311,
+   386,
+   416,
+   418
+  ],
+  "tooltip": "What type of expense? (Prescriptions, dentures, number of meals for attendant, etc.) line 4 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  471",
+  "type": "text",
+  "page": 15,
+  "rect": [
+   468,
+   402,
+   578,
+   418
+  ],
+  "tooltip": "Will the household be reimbursed for any medical expenses? (By Medi-Cal, insurance, family member, etc.)  If yes, by who? Line 4 of 4 ",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  472",
+  "type": "text",
+  "page": 15,
+  "rect": [
+   468,
+   385,
+   578,
+   402
+  ],
+  "tooltip": "Enter how much money will be reimbursed, line 4 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  473",
+  "type": "checkbox",
+  "page": 15,
+  "rect": [
+   516,
+   364,
+   526,
+   375
+  ],
+  "tooltip": "13. Does anyone who is applying for benefits, including you, get food from any of the following?  Communal dining facility for the elderly/disabled, Food distribution program operated by a Native American reservation, Other food program? (Please check one.) Yes, If yes, please answer this question.",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  474",
+  "type": "checkbox",
+  "page": 15,
+  "rect": [
+   547,
+   365,
+   558,
+   376
+  ],
+  "tooltip": "No, If no, skip to question #14.",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  475",
+  "type": "text",
+  "page": 15,
+  "rect": [
+   41,
+   302,
+   295,
+   315
+  ],
+  "tooltip": "If yes, who?  line 1 of 2",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  476",
+  "type": "text",
+  "page": 15,
+  "rect": [
+   299,
+   302,
+   576,
+   315
+  ],
+  "tooltip": "Where?  line 1 of 2",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  477",
+  "type": "text",
+  "page": 15,
+  "rect": [
+   41,
+   280,
+   295,
+   292
+  ],
+  "tooltip": "If yes, who?  line 2 of 2",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  478",
+  "type": "text",
+  "page": 15,
+  "rect": [
+   299,
+   280,
+   575,
+   293
+  ],
+  "tooltip": "Where?  line 2 of 2",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  479",
+  "type": "checkbox",
+  "page": 15,
+  "rect": [
+   496,
+   265,
+   507,
+   276
+  ],
+  "tooltip": "14. Does anyone who is applying for benefits, including you, live at any of the following? Homeless Shelter, Shelter for battered women, Reservation for Native Americans, Drug/Alcohol rehabilitation center, Correctional facility/Penal institution (Jail or Prison), Group living arrangement for the blind/disabled, Federally subsidized housing, Psychiatric hospital/mental institution, Hospital, or Long-Term Care or Board and Care Facility? (Please check one.) Yes, If yes, please answer this question.",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  480",
+  "type": "checkbox",
+  "page": 15,
+  "rect": [
+   529,
+   265,
+   540,
+   276
+  ],
+  "tooltip": "No, If no, skip to question #15.",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  481",
+  "type": "text",
+  "page": 15,
+  "rect": [
+   37,
+   132,
+   217,
+   161
+  ],
+  "tooltip": "Person's name  line 1 of 2",
+  "on": null,
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  482",
+  "type": "text",
+  "page": 15,
+  "rect": [
+   217,
+   132,
+   457,
+   161
+  ],
+  "tooltip": "Name of Institution (Center, shelter, facility, etc.) Line 1 of 2",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  483",
+  "type": "text",
+  "page": 15,
+  "rect": [
+   457,
+   132,
+   576,
+   161
+  ],
+  "tooltip": "Expected Date of release (if applicable) line 1 of 2",
+  "on": null,
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  484",
+  "type": "text",
+  "page": 15,
+  "rect": [
+   37,
+   103,
+   217,
+   131
+  ],
+  "tooltip": "Person's name  line 2 of 2",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  485",
+  "type": "text",
+  "page": 15,
+  "rect": [
+   217,
+   102,
+   456,
+   131
+  ],
+  "tooltip": "Name of Institution (center, shelter, facility, etc.) line 2 of 2",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  486",
+  "type": "text",
+  "page": 15,
+  "rect": [
+   457,
+   102,
+   577,
+   131
+  ],
+  "tooltip": "Expected Date of release (if applicable) Line 2 of 2",
+  "on": null,
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  487",
+  "type": "checkbox",
+  "page": 15,
+  "rect": [
+   187,
+   75,
+   198,
+   86
+  ],
+  "tooltip": "15. Are you or anyone living with you age 60 or older and unable to buy food and fix meals separately because of a disability? (Please check one.)  Yes",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  488",
+  "type": "checkbox",
+  "page": 15,
+  "rect": [
+   220,
+   75,
+   230,
+   86
+  ],
+  "tooltip": "No",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  489",
+  "type": "text",
+  "page": 15,
+  "rect": [
+   38,
+   39,
+   574,
+   56
+  ],
+  "tooltip": "If yes, who?  ",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  490",
+  "type": "checkbox",
+  "page": 16,
+  "rect": [
+   115,
+   706,
+   126,
+   717
+  ],
+  "tooltip": "16. Household\u2019s Resources Do you or anyone you buy and prepare food with have any resources (cash, money in the bank, Certificate of Deposit, stocks and bonds, etc.)? (Please check one.) Yes  If yes, please answer this question.",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  491",
+  "type": "checkbox",
+  "page": 16,
+  "rect": [
+   147,
+   706,
+   157,
+   717
+  ],
+  "tooltip": "No, If no, skip to question # 17.",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  5022",
+  "type": "text",
+  "page": 16,
+  "rect": [
+   332,
+   446,
+   388,
+   462
+  ],
+  "tooltip": "How much is it worth?  Line 4 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  5023",
+  "type": "text",
+  "page": 16,
+  "rect": [
+   390,
+   439,
+   575,
+   470
+  ],
+  "tooltip": "Where is the resource? (Include the name of the bank or company where mone is held) Line 4 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  5019",
+  "type": "text",
+  "page": 16,
+  "rect": [
+   390,
+   470,
+   575,
+   500
+  ],
+  "tooltip": "Where is the resource? (Include the name of the bank or company where mone is held) Line 3 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  5015",
+  "type": "text",
+  "page": 16,
+  "rect": [
+   390,
+   501,
+   575,
+   531
+  ],
+  "tooltip": "Where is the resource? (Include the name of the bank or company where mone is held) Line 2 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  5011",
+  "type": "text",
+  "page": 16,
+  "rect": [
+   390,
+   532,
+   575,
+   562
+  ],
+  "tooltip": "Where is the resource? (Include the name of the bank or company where mone is held) Line 1 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  5010",
+  "type": "text",
+  "page": 16,
+  "rect": [
+   332,
+   538,
+   388,
+   555
+  ],
+  "tooltip": "How much is it worth?  Line 1 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  5014",
+  "type": "text",
+  "page": 16,
+  "rect": [
+   332,
+   507,
+   388,
+   524
+  ],
+  "tooltip": "How much is it worth?  Line 2 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  5018",
+  "type": "text",
+  "page": 16,
+  "rect": [
+   332,
+   477,
+   388,
+   493
+  ],
+  "tooltip": "How much is it worth?  Line 3 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  5021",
+  "type": "text",
+  "page": 16,
+  "rect": [
+   189,
+   439,
+   328,
+   470
+  ],
+  "tooltip": "What type of resource? Line 4 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  5017",
+  "type": "text",
+  "page": 16,
+  "rect": [
+   189,
+   470,
+   328,
+   501
+  ],
+  "tooltip": "What type of resource? Line 3 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  5013",
+  "type": "text",
+  "page": 16,
+  "rect": [
+   189,
+   501,
+   328,
+   531
+  ],
+  "tooltip": "What type of resource? Line 2 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  509",
+  "type": "text",
+  "page": 16,
+  "rect": [
+   189,
+   532,
+   328,
+   562
+  ],
+  "tooltip": "What type of resource? Line 1 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  505",
+  "type": "text",
+  "page": 16,
+  "rect": [
+   37,
+   531,
+   190,
+   562
+  ],
+  "tooltip": "In whose name is the resource listed? Line 1 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  5012",
+  "type": "text",
+  "page": 16,
+  "rect": [
+   37,
+   500,
+   190,
+   530
+  ],
+  "tooltip": "In whose name is the resource listed? Line 2 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  5016",
+  "type": "text",
+  "page": 16,
+  "rect": [
+   37,
+   470,
+   190,
+   500
+  ],
+  "tooltip": "In whose name is the resource listed? Line 3 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  5020",
+  "type": "text",
+  "page": 16,
+  "rect": [
+   37,
+   439,
+   190,
+   469
+  ],
+  "tooltip": "In whose name is the resource listed? Line 4 of 4",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  521",
+  "type": "checkbox",
+  "page": 16,
+  "rect": [
+   112,
+   407,
+   123,
+   418
+  ],
+  "tooltip": "Have you or anyone in your household sold, traded, given away, or transferred a resource in the last three months? (Please check one.)  Yes",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  522",
+  "type": "checkbox",
+  "page": 16,
+  "rect": [
+   145,
+   407,
+   156,
+   418
+  ],
+  "tooltip": "No",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  492",
+  "type": "checkbox",
+  "page": 16,
+  "rect": [
+   36,
+   675,
+   47,
+   686
+  ],
+  "tooltip": "Check all that apply: Bank/Credit Union account (Checking)\r",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  493",
+  "type": "checkbox",
+  "page": 16,
+  "rect": [
+   36,
+   664,
+   47,
+   675
+  ],
+  "tooltip": "Bank/Credit Union account (Saving)",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  494",
+  "type": "checkbox",
+  "page": 16,
+  "rect": [
+   36,
+   653,
+   47,
+   664
+  ],
+  "tooltip": "Safe Deposit box\r",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  495",
+  "type": "checkbox",
+  "page": 16,
+  "rect": [
+   36,
+   642,
+   47,
+   652
+  ],
+  "tooltip": "Savings Bond(s)",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  496",
+  "type": "checkbox",
+  "page": 16,
+  "rect": [
+   233,
+   675,
+   244,
+   686
+  ],
+  "tooltip": "Money Market Account",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  497",
+  "type": "checkbox",
+  "page": 16,
+  "rect": [
+   233,
+   664,
+   244,
+   675
+  ],
+  "tooltip": "Mutual Funds",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  498",
+  "type": "checkbox",
+  "page": 16,
+  "rect": [
+   233,
+   653,
+   244,
+   664
+  ],
+  "tooltip": "Certificate of Deposit (CD)",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  499",
+  "type": "checkbox",
+  "page": 16,
+  "rect": [
+   233,
+   642,
+   244,
+   652
+  ],
+  "tooltip": "Cash on hand",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  500",
+  "type": "checkbox",
+  "page": 16,
+  "rect": [
+   423,
+   675,
+   434,
+   686
+  ],
+  "tooltip": "Stocks",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  506",
+  "type": "checkbox",
+  "page": 16,
+  "rect": [
+   423,
+   664,
+   434,
+   675
+  ],
+  "tooltip": "Bonds",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  507",
+  "type": "checkbox",
+  "page": 16,
+  "rect": [
+   423,
+   652,
+   434,
+   663
+  ],
+  "tooltip": "Other",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  508",
+  "type": "text",
+  "page": 16,
+  "rect": [
+   469,
+   652,
+   577,
+   662
+  ],
+  "tooltip": "List other, exit forms mode",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  525",
+  "type": "text",
+  "page": 16,
+  "rect": [
+   105,
+   334,
+   395,
+   345
+  ],
+  "tooltip": "If yes, who?",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  528",
+  "type": "text",
+  "page": 16,
+  "rect": [
+   103,
+   276,
+   392,
+   289
+  ],
+  "tooltip": "If yes, who?",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  531",
+  "type": "text",
+  "page": 16,
+  "rect": [
+   105,
+   217,
+   397,
+   230
+  ],
+  "tooltip": "If yes, who?",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  537",
+  "type": "text",
+  "page": 16,
+  "rect": [
+   105,
+   98,
+   392,
+   110
+  ],
+  "tooltip": "If yes, who?",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  540",
+  "type": "text",
+  "page": 16,
+  "rect": [
+   104,
+   40,
+   394,
+   52
+  ],
+  "tooltip": "If yes, who?",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  534",
+  "type": "text",
+  "page": 16,
+  "rect": [
+   104,
+   158,
+   393,
+   171
+  ],
+  "tooltip": "If yes, who?",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  523",
+  "type": "checkbox",
+  "page": 16,
+  "rect": [
+   520,
+   350,
+   531,
+   361
+  ],
+  "tooltip": "17. Duplicate Benefits Have you or any member of your household been convicted of fraudulently receiving duplicate SNAP (federal name for food assistance program, known as CalFresh in California) benefits in any state after September 22, 1996? (Please check one.) Yes",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  524",
+  "type": "checkbox",
+  "page": 16,
+  "rect": [
+   552,
+   350,
+   562,
+   361
+  ],
+  "tooltip": "No",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  526",
+  "type": "checkbox",
+  "page": 16,
+  "rect": [
+   519,
+   292,
+   530,
+   303
+  ],
+  "tooltip": "18. Trafficking (trading or selling) of Benefits Have you or any member of your household ever been convicted of trafficking (trading or selling EBT cards to others) SNAP benefits of $500 or more after September 22, 1996? (Please check one.) Yes",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  527",
+  "type": "checkbox",
+  "page": 16,
+  "rect": [
+   551,
+   293,
+   562,
+   304
+  ],
+  "tooltip": "No",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  529",
+  "type": "checkbox",
+  "page": 16,
+  "rect": [
+   520,
+   233,
+   531,
+   244
+  ],
+  "tooltip": "19. Trading Benefits for Drugs Have you or any member of your household been found guilty of trading SNAP benefits for drugs after September 22, 1996? (Please check one.) Yes",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  530",
+  "type": "checkbox",
+  "page": 16,
+  "rect": [
+   552,
+   232,
+   563,
+   243
+  ],
+  "tooltip": "No",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  532",
+  "type": "checkbox",
+  "page": 16,
+  "rect": [
+   519,
+   173,
+   530,
+   184
+  ],
+  "tooltip": "20. Trading Benefits for Firearms or Explosives Have you or any member of your household been found guilty of trading SNAP benefits for guns, ammunition, or explosives after September 22, 1996? (Please check one.) Yes",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  533",
+  "type": "checkbox",
+  "page": 16,
+  "rect": [
+   551,
+   173,
+   562,
+   184
+  ],
+  "tooltip": "No",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  535",
+  "type": "checkbox",
+  "page": 16,
+  "rect": [
+   519,
+   115,
+   530,
+   126
+  ],
+  "tooltip": "21. Fleeing Felon Are you or any member of your household hiding or running from the law to avoid prosecution, being taken into custody, or going to jail for a felony crime or attempted felony crime? (Please check one.) Yes",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  536",
+  "type": "checkbox",
+  "page": 16,
+  "rect": [
+   552,
+   116,
+   562,
+   126
+  ],
+  "tooltip": "No",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  538",
+  "type": "checkbox",
+  "page": 16,
+  "rect": [
+   521,
+   57,
+   532,
+   67
+  ],
+  "tooltip": "22. Probation/Parole Violation Have you or any member of your household been found by a court of law to be in violation of probation or parole? (Please check one.) Yes",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  539",
+  "type": "checkbox",
+  "page": 16,
+  "rect": [
+   552,
+   57,
+   562,
+   67
+  ],
+  "tooltip": "No",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  541",
+  "type": "text",
+  "page": 17,
+  "rect": [
+   37,
+   37,
+   577,
+   719
+  ],
+  "tooltip": "Additional writing space page 1 of 2",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  542",
+  "type": "text",
+  "page": 18,
+  "rect": [
+   32,
+   177,
+   573,
+   721
+  ],
+  "tooltip": "Additional writing space page 2 of 2",
+  "on": [
+   "/BBox",
+   "/Filter",
+   "/Matrix",
+   "/Resources",
+   "/Subtype"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  545",
+  "type": "checkbox",
+  "page": 18,
+  "rect": [
+   511,
+   75,
+   522,
+   86
+  ],
+  "tooltip": "DO NOT COMPLETE - COUNTY USE ONLY - Is the household\u2019s combined gross income and cash on hand or on checking and savings accounts less than the combined rent/mortgage and appropriate utility allowance? (Please check one.) Yes",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  546",
+  "type": "checkbox",
+  "page": 18,
+  "rect": [
+   544,
+   74,
+   555,
+   85
+  ],
+  "tooltip": "No",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  548",
+  "type": "checkbox",
+  "page": 18,
+  "rect": [
+   512,
+   42,
+   527,
+   53
+  ],
+  "tooltip": "DO NOT COMPLETE - COUNTY USE ONLY - Is the household a destitute migrant/seasonal farm worker household with liquid resources not exceeding $100 and does not expect to receive more than $25 in next 10 days? (Please check one.) Yes",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "CF 285  549",
+  "type": "checkbox",
+  "page": 18,
+  "rect": [
+   546,
+   43,
+   557,
+   54
+  ],
+  "tooltip": "No, end of form",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "Check Box1 - 1st yes",
+  "type": "checkbox",
+  "page": 18,
+  "rect": [
+   512,
+   104,
+   523,
+   114
+  ],
+  "tooltip": "DO NOT COMPLETE - COUNTY USE ONLY - IF THE ANSWER IS YES TO ANY OF THE QUESTIONS BELOW - EXPEDITE Is the household\u2019s gross income less than $150 and cash on hand, or in checking and savings accounts $100 or less?  (Please check one.) Yes",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ },
+ {
+  "name": "Check Box2 - 1st no",
+  "type": "checkbox",
+  "page": 18,
+  "rect": [
+   547,
+   104,
+   556,
+   114
+  ],
+  "tooltip": "No",
+  "on": [
+   "/Yes"
+  ],
+  "opt": null,
+  "maxlen": null
+ }
+]
