@@ -1,0 +1,376 @@
+[
+  {
+    "id": "calfresh-los-angeles",
+    "title": "Apply for CalFresh food benefits",
+    "summary": "CalFresh can add money to an EBT card for groceries. Los Angeles County accepts applications online, by phone, by mail, or in person.",
+    "category": "food benefits",
+    "jurisdiction": "Los Angeles County, CA",
+    "sourceUri": "https://dpss.lacounty.gov/en/food/calfresh.html",
+    "phone": "866-613-3777",
+    "url": "https://benefitscal.com/",
+    "address": "Los Angeles County — online, phone, mail, or a DPSS office",
+    "reviewedAt": "2026-10-25",
+    "aliases": [
+      "CalFresh",
+      "food stamps",
+      "food stamp",
+      "SNAP",
+      "EBT",
+      "grocery benefits",
+      "food assistance"
+    ],
+    "switchAliases": [
+      "CalFresh",
+      "food stamps",
+      "food stamp",
+      "SNAP",
+      "EBT",
+      "grocery benefits"
+    ],
+    "steps": [
+      "Start an application at BenefitsCal.com, call LA County DPSS at 866-613-3777, or apply through a DPSS office.",
+      "Submit at least your name, address, and signature to establish your application date. If you do not have housing, use the district address where you stay.",
+      "Complete the county interview. DPSS will tell you which identity, income, and expense information is still needed.",
+      "Upload or provide the requested proof and watch for the county decision. If approved, benefits are loaded on an EBT card."
+    ],
+    "requirements": [
+      "Name, address, and signature to start",
+      "Identity verification",
+      "Income and household information requested by the county"
+    ],
+    "notes": [
+      "You do not need every document to submit the initial application. If you have no housing, use the district address where you stay. If you have very little money or food, ask about expedited service; DPSS says a photo ID is not required to verify identity for expedited service.",
+      "Eligibility rules can change. DPSS makes the official eligibility decision."
+    ],
+    "searchText": "apply application California CalFresh food stamps food stamp SNAP EBT grocery benefits food assistance hungry meals BenefitsCal Los Angeles County DPSS expedited service interview eligibility"
+  },
+  {
+    "id": "birth-certificate-los-angeles",
+    "title": "Request a Los Angeles County birth certificate",
+    "summary": "Order a certified birth record from the Los Angeles County Registrar-Recorder/County Clerk if the birth occurred in Los Angeles County.",
+    "category": "identity documents",
+    "jurisdiction": "Los Angeles County, CA",
+    "sourceUri": "https://www.lavote.gov/home/records/birth-records/birth-records-request",
+    "url": "https://www.lavote.gov/home/records/birth-records/birth-records-request",
+    "address": "Registrar-Recorder/County Clerk, Birth Records, P.O. Box 489, Norwalk, CA 90651-0489",
+    "reviewedAt": "2026-10-25",
+    "aliases": [
+      "birth certificate",
+      "birth record",
+      "certified birth certificate",
+      "proof of birth"
+    ],
+    "switchAliases": [
+      "birth certificate",
+      "birth record",
+      "certified birth certificate",
+      "proof of birth"
+    ],
+    "steps": [
+      "Confirm that the birth occurred in Los Angeles County. If it did not, request the record from the county or state where the person was born.",
+      "Choose an authorized certified copy when the record will be used for identification or another legal purpose.",
+      "Choose a method: order online through the county’s authorized VitalChek link, apply in person, or mail the county application.",
+      "For a mailed authorized copy, complete the application, have the Certificate of Identity sworn statement notarized, and pay the fee. The LA County site currently lists $34 per copy and about 20 business days for mailed requests."
+    ],
+    "requirements": [
+      "Full name at birth and date and place of birth",
+      "Applicant’s relationship to the person named on the record",
+      "Notarized Certificate of Identity for a mailed authorized copy",
+      "$34 county fee per copy (verify before submitting)"
+    ],
+    "notes": [
+      "An informational copy is not valid for establishing identity. Choose an authorized certified copy if the record is for a state ID or another legal purpose.",
+      "Fees and processing times can change; verify them on the county page before paying."
+    ],
+    "searchText": "request order replace birth certificate certified copy birth record identity document vital records VitalChek Los Angeles County Registrar Recorder County Clerk authorized informational copy notarized Certificate of Identity fee mail online in person"
+  },
+  {
+    "id": "california-identification-card",
+    "title": "Apply for a California identification card",
+    "summary": "The California DMV issues standard, REAL ID, and senior identification cards, with reduced-fee and no-fee options for people who qualify.",
+    "category": "identity documents",
+    "jurisdiction": "California",
+    "sourceUri": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/identification-id-cards/",
+    "url": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/identification-id-cards/",
+    "address": "California DMV office",
+    "reviewedAt": "2026-10-25",
+    "aliases": [
+      "California ID",
+      "state ID",
+      "identification card",
+      "DMV ID",
+      "photo ID"
+    ],
+    "switchAliases": [
+      "California ID",
+      "state ID",
+      "identification card",
+      "DMV ID"
+    ],
+    "steps": [
+      "Complete the DMV identification card application online and save the confirmation code.",
+      "Before paying, check whether you qualify for fee help. A qualifying assistance program can issue form DL 937 for a reduced-fee ID; a qualifying verifier can issue form DL 933 for a no-fee ID for a person experiencing homelessness.",
+      "Visit a DMV office with the identity and California residency documents DMV lists. Provide the requested Social Security number information, submit the documents, and complete the photo and thumbprint steps.",
+      "Pay the applicable fee or present the approved reduced/no-fee form. DMV says the card is generally mailed in three to four weeks; use DMV’s card-status service if it has not arrived after 60 days."
+    ],
+    "requirements": [
+      "Acceptable identity document",
+      "California residency documents",
+      "Social Security number information requested by DMV",
+      "Application fee or an approved DL 937/DL 933 reduced/no-fee verification form"
+    ],
+    "notes": [
+      "DMV currently lists $40 for a regular ID and $11 for a reduced-fee ID. A person who meets DMV’s homelessness definition may qualify for a no-fee ID, and people age 62 or older may qualify for a no-fee senior ID. Verify current fees and eligibility on the official DMV page before applying.",
+      "A standard ID proves identity and age but does not authorize driving. A REAL ID has additional document requirements."
+    ],
+    "searchText": "apply California state ID identification card DMV photo ID Real ID standard ID reduced fee no fee homeless homelessness DL 937 DL 933 identity residency social security appointment"
+  },
+  {
+    "id": "medi-cal-california",
+    "title": "Apply for Medi-Cal health coverage",
+    "summary": "Medi-Cal is California’s Medicaid program. Applications are available online, by phone, by mail, or through a county office.",
+    "category": "health coverage",
+    "jurisdiction": "California",
+    "sourceUri": "https://www.dhcs.ca.gov/medi-cal/apply/",
+    "url": "https://benefitscal.com/",
+    "address": "California — BenefitsCal or a county social services office",
+    "reviewedAt": "2026-10-25",
+    "aliases": [
+      "Medi-Cal",
+      "Medicaid",
+      "health insurance",
+      "medical coverage",
+      "health coverage"
+    ],
+    "switchAliases": [
+      "Medi-Cal",
+      "Medicaid",
+      "health insurance",
+      "medical coverage",
+      "health coverage"
+    ],
+    "steps": [
+      "Apply online through BenefitsCal or Covered California, or contact the county social services office to apply by phone, mail, or in person.",
+      "Provide household, income, identity, and residency information requested on the application.",
+      "Send any follow-up proof the county requests and keep copies or screenshots of what you submit.",
+      "Watch for the county’s eligibility notice and instructions for choosing a health plan."
+    ],
+    "requirements": [
+      "Household and income information",
+      "Identity and California residency information",
+      "Immigration information only when required for the person applying"
+    ],
+    "notes": [
+      "A county eligibility worker makes the official decision. Applying is free."
+    ],
+    "searchText": "apply Medi-Cal Medicaid medical insurance health coverage doctor prescriptions benefits BenefitsCal Covered California county social services"
+  },
+  {
+    "id": "social-security-after-incarceration",
+    "title": "Restart or apply for Social Security benefits after release",
+    "summary": "The Social Security Administration explains how incarceration can affect Social Security and SSI and how to ask about restarting or applying for benefits after release.",
+    "category": "income benefits",
+    "jurisdiction": "United States",
+    "sourceUri": "https://www.ssa.gov/life-events/incarceration",
+    "phone": "800-772-1213",
+    "url": "https://www.ssa.gov/reentry/benefits.htm",
+    "address": "Social Security Administration — phone or local office",
+    "reviewedAt": "2026-10-25",
+    "aliases": [
+      "Social Security",
+      "SSI",
+      "SSDI",
+      "restart benefits",
+      "resume benefits",
+      "reinstate benefits",
+      "benefits after incarceration"
+    ],
+    "switchAliases": [
+      "Social Security",
+      "SSI",
+      "SSDI",
+      "restart benefits",
+      "resume benefits",
+      "reinstate benefits"
+    ],
+    "steps": [
+      "Call Social Security at 800-772-1213 or contact a local Social Security office. Report that you were released and ask whether your Social Security or SSI benefits can be restarted or whether you need a new application.",
+      "Bring or provide official release papers as proof that you are out, along with any Social Security notices you have.",
+      "Follow SSA’s instructions for reinstatement or a new application and provide any additional information it requests. Release does not automatically establish eligibility.",
+      "If release is still ahead, ask facility staff whether the institution has a prerelease agreement; SSA says contact may be initiated up to 90 days before the scheduled release date."
+    ],
+    "requirements": [
+      "Official release documents",
+      "Identity and prior benefit information requested by Social Security",
+      "A new application if SSA says the prior eligibility ended rather than being suspended"
+    ],
+    "notes": [
+      "The outcome depends on the benefit and length of confinement. SSA says suspended benefits may be restarted after release, while some terminated benefits require a new application.",
+      "SSA’s detailed reentry guide is at ssa.gov/reentry/benefits.htm. Contact SSA for the decision in an individual case."
+    ],
+    "searchText": "restart resume reinstate apply Social Security benefits SSI SSDI after release incarceration jail prison reentry release papers proof of release prerelease agreement 90 days local office income disability"
+  },
+  {
+    "id": "california-lifeline",
+    "title": "Apply for California LifeLine phone service",
+    "summary": "California LifeLine provides discounted home or mobile phone service to eligible households.",
+    "category": "phone access",
+    "jurisdiction": "California",
+    "sourceUri": "https://www.californialifeline.com/en",
+    "url": "https://www.californialifeline.com/en/provider_search",
+    "address": "California — begin with a participating phone company",
+    "reviewedAt": "2026-10-25",
+    "aliases": [
+      "free phone",
+      "discount phone",
+      "LifeLine phone",
+      "California LifeLine",
+      "government phone"
+    ],
+    "switchAliases": [
+      "California LifeLine",
+      "LifeLine phone",
+      "free phone",
+      "discount phone",
+      "government phone"
+    ],
+    "steps": [
+      "Use the California LifeLine provider search to choose a participating phone company in your area.",
+      "Ask the company to start LifeLine service. The program will send an application with an enrollment code.",
+      "Submit the application and proof that you qualify through a participating public-benefit program or household income.",
+      "Respond to any request for missing information and wait for the program’s decision before treating service as approved."
+    ],
+    "requirements": [
+      "Identity information",
+      "Proof of participation in a qualifying program or proof of household income",
+      "A California residential address or accepted program alternative"
+    ],
+    "notes": [
+      "Only one LifeLine discount is generally allowed per household. Verify current rules on the official site."
+    ],
+    "searchText": "California LifeLine free phone discounted mobile cell service government phone provider enrollment public benefits income eligibility"
+  },
+  {
+    "id": "boundless-freedom-support",
+    "title": "Ask Boundless Freedom Project for reentry support",
+    "summary": "BFP offers resource navigation, referrals, mentorship, Sangha connection, and limited assistance when available.",
+    "category": "reentry support",
+    "jurisdiction": "United States",
+    "sourceUri": "https://boundlessfreedom.org/",
+    "phone": "(916) 747-4294",
+    "url": "https://boundlessfreedom.org/",
+    "address": "Phone or website",
+    "reviewedAt": "2026-10-25",
+    "aliases": [
+      "BFP support",
+      "reentry navigator",
+      "reentry support",
+      "mentor",
+      "human support"
+    ],
+    "switchAliases": [
+      "Boundless Freedom Project",
+      "BFP support",
+      "reentry navigator",
+      "reentry support"
+    ],
+    "steps": [
+      "Call Boundless Freedom Project at (916) 747-4294 or visit boundlessfreedom.org.",
+      "Share only the basic contact information and general type of support needed.",
+      "Submit the request and keep looking for time-sensitive help while waiting; the form is not an emergency service.",
+      "For an urgent local need, call 211 in the United States for nearby programs."
+    ],
+    "requirements": [
+      "A safe way for BFP to respond",
+      "A short description of the support needed"
+    ],
+    "notes": [
+      "BFP says it will never ask for a Social Security number, medical records, legal case files, government ID, or payment information through this support request.",
+      "The service is not emergency, legal, or crisis support."
+    ],
+    "searchText": "Boundless Freedom Project BFP contact phone 916 747 4294 website get support reentry navigation referral mentor Sangha human help returning citizen assistance"
+  },
+  {
+    "id": "211-local-resources",
+    "title": "Call 211 for local basic-needs resources",
+    "summary": "211 connects people in the United States with local food, housing, health, transportation, and other community services.",
+    "category": "local navigation",
+    "jurisdiction": "United States",
+    "sourceUri": "https://www.211.org/",
+    "phone": "211",
+    "url": "https://www.211.org/",
+    "address": "United States — call 211 or use the online locator",
+    "reviewedAt": "2026-10-25",
+    "aliases": [
+      "211",
+      "local resources",
+      "basic needs",
+      "emergency housing",
+      "food pantry"
+    ],
+    "switchAliases": [
+      "211"
+    ],
+    "steps": [
+      "Call 211 or use 211.org to reach the service for your area.",
+      "State your city or ZIP code and the most urgent need first.",
+      "Ask for the program name, phone number, eligibility basics, hours, and whether an appointment is required.",
+      "Before traveling, call the referred program to confirm that it is open and still has capacity."
+    ],
+    "requirements": [
+      "City or ZIP code",
+      "A brief description of the immediate need"
+    ],
+    "notes": [
+      "Program hours and availability change frequently; confirm details directly with the referred provider."
+    ],
+    "searchText": "211 local resources urgent basic needs food pantry shelter housing transportation utility assistance community services referral near me"
+  },
+  {
+    "id": "california-record-cleaning",
+    "title": "Explore California criminal-record cleaning options",
+    "summary": "California Courts Self-Help explains record-cleaning paths based on the type of record and the person’s situation. California does not have one universal expungement process, so the correct path and forms depend on the case.",
+    "category": "legal self-help",
+    "jurisdiction": "California",
+    "sourceUri": "https://selfhelp.courts.ca.gov/clean-your-record",
+    "url": "https://selfhelp.courts.ca.gov/clean-your-record",
+    "address": "California Courts Self-Help — use the guided online questions, then follow the instructions for the court that handled the case",
+    "reviewedAt": "2026-10-25",
+    "aliases": [
+      "clean my record",
+      "record cleaning",
+      "criminal record",
+      "expungement",
+      "expunge conviction",
+      "dismiss conviction",
+      "seal arrest record",
+      "post-conviction relief"
+    ],
+    "switchAliases": [
+      "clean my record",
+      "record cleaning",
+      "criminal record",
+      "expungement",
+      "expunge conviction",
+      "dismiss conviction",
+      "seal arrest record",
+      "post-conviction relief"
+    ],
+    "steps": [
+      "Open the California Courts Self-Help record-cleaning guide and answer its questions about why you want relief and the type of record you have.",
+      "Gather the case information the guide asks for, including the court or county, case number, conviction or arrest details, sentence, and probation or parole status when available.",
+      "Follow the case-specific instructions the guide gives you. The forms and filing steps differ for an arrest without conviction, misdemeanor, felony, juvenile record, and other situations.",
+      "File any required forms with the court that handled the case and follow its instructions about service, a hearing, and the court’s decision. Ask a public defender or legal-aid provider for help if the path is unclear."
+    ],
+    "requirements": [
+      "Case and court information when available",
+      "The outcome of the case and sentence information",
+      "Current probation, parole, or pending-case status when relevant"
+    ],
+    "notes": [
+      "Not every record qualifies, and cleaning a record may not remove every consequence. If you are not a U.S. citizen, California Courts recommends getting advice from an attorney who understands immigration law before choosing a record-cleaning option.",
+      "This guide is general legal information, not legal advice. Use the official questionnaire because eligibility and forms depend on the facts of the case."
+    ],
+    "searchText": "California criminal record cleaning expungement expunge clear my record dismissal conviction seal arrest record post-conviction relief misdemeanor felony court forms legal help public defender reentry jobs housing"
+  }
+]

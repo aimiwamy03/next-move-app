@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "status": "draft_requires_bfp_review",
+  "source": {
+    "title": "21 Mindfulness Exercises.pdf",
+    "fileId": "1SjP6GzjpFtS8yHych0zROcXZ8HOn9RWV",
+    "url": "https://drive.google.com/file/d/1SjP6GzjpFtS8yHych0zROcXZ8HOn9RWV/view",
+    "modifiedTime": "2026-09-28T03:21:27.828Z"
+  },
+  "delivery": {
+    "channel": "sms",
+    "defaultDurationSeconds": 60,
+    "safetyIntro": "Take it slow. If you feel overwhelmed, stop, open your eyes, move around, or take a break.",
+    "instructions": "Send the safety intro before the selected practice. Never describe a practice as medical treatment."
+  },
+  "practices": [
+    {
+      "id": "yawn-and-stretch",
+      "title": "Yawn and Stretch",
+      "durationSeconds": 60,
+      "smsText": "If it feels comfortable, yawn and gently stretch your arms, shoulders, and neck. Notice what you feel in your body for one minute.",
+      "tags": ["grounding", "movement", "tension", "offline"]
+    },
+    {
+      "id": "sit-and-observe",
+      "title": "Sit and Observe",
+      "durationSeconds": 60,
+      "smsText": "Sit somewhere safe and notice the world around you. Name three things you see, two things you hear, and one thing you feel.",
+      "tags": ["grounding", "senses", "overwhelm", "offline"]
+    },
+    {
+      "id": "wash-your-hands",
+      "title": "Mindful Hand Washing",
+      "durationSeconds": 60,
+      "smsText": "While washing your hands, slow down. Notice the water, temperature, soap, and movement. Let this bring you back to the present moment.",
+      "tags": ["grounding", "routine", "senses", "offline"]
+    },
+    {
+      "id": "stop-method",
+      "title": "The STOP Method",
+      "durationSeconds": 60,
+      "smsText": "Stand up if comfortable. Tune in to your body. Observe one physical sensation. Then picture one helpful next step you could take.",
+      "tags": ["grounding", "decision", "overwhelm", "offline"]
+    },
+    {
+      "id": "transition-moments",
+      "title": "Transition Moment",
+      "durationSeconds": 60,
+      "smsText": "While moving to your next place—an appointment, meal, job, or visit—slow down. Feel each step and arrive with care.",
+      "tags": ["walking", "transition", "appointment", "offline"],
+      "adaptationNote": "Updated the original facility-specific examples for community reentry."
+    },
+    {
+      "id": "mindful-breathing",
+      "title": "Mindful Breathing",
+      "durationSeconds": 60,
+      "smsText": "Notice your breathing for one minute without trying to change it. When your mind wanders, gently return to the next breath.",
+      "tags": ["breathing", "stress", "grounding", "offline"]
+    },
+    {
+      "id": "loving-kindness",
+      "title": "Loving Kindness",
+      "durationSeconds": 60,
+      "smsText": "Quietly offer yourself this wish: May I be safe. May I have peace. Then offer the same wish to someone else.",
+      "tags": ["kindness", "loneliness", "connection", "offline"]
+    },
+    {
+      "id": "set-an-intention",
+      "title": "Set an Intention",
+      "durationSeconds": 60,
+      "smsText": "Pause and ask: How do I want to move through today? Choose one simple intention, such as patience, courage, or taking one step at a time.",
+      "tags": ["morning", "planning", "motivation", "offline"]
+    },
+    {
+      "id": "self-compassion",
+      "title": "Self-Compassion",
+      "durationSeconds": 60,
+      "smsText": "Notice one hard thing without judging yourself. Say: This is hard, and I can be kind to myself while I take the next step.",
+      "tags": ["kindness", "stress", "shame", "offline"]
+    },
+    {
+      "id": "mindful-hug",
+      "title": "Mindful Hug",
+      "durationSeconds": 60,
+      "smsText": "With someone you trust and their clear permission, share a side hug and take three comfortable breaths. Or place a hand on your own shoulder.",
+      "tags": ["connection", "kindness", "support", "offline"],
+      "adaptationNote": "Added explicit consent and a self-directed alternative."
+    },
+    {
+      "id": "mindful-eating",
+      "title": "Mindful Eating",
+      "durationSeconds": 60,
+      "smsText": "For the next minute, slow down while eating. Notice the smell, taste, texture, and each movement before taking another bite.",
+      "tags": ["routine", "senses", "food", "offline"]
+    },
+    {
+      "id": "morning-meditation",
+      "title": "Morning Pause",
+      "durationSeconds": 60,
+      "smsText": "Before starting your day, sit or stand comfortably for one minute. Notice your breath and choose one gentle intention for the morning.",
+      "tags": ["morning", "breathing", "intention", "offline"]
+    },
+    {
+      "id": "seated-pause",
+      "title": "Seated Pause",
+      "durationSeconds": 60,
+      "smsText": "When you sit down, pause for one minute. Feel the seat supporting you, place your feet down if comfortable, and notice your breathing.",
+      "tags": ["grounding", "breathing", "routine", "offline"],
+      "adaptationNote": "Renamed and adapted the original 'Stool Meditation' for community settings."
+    },
+    {
+      "id": "four-seven-eight-breathing",
+      "title": "4-7-8 Breathing",
+      "durationSeconds": 60,
+      "smsText": "Only if holding your breath feels comfortable: breathe in gently for 4, hold for 7, and breathe out for 8. Otherwise, breathe normally and notice one breath.",
+      "tags": ["breathing", "stress", "sleep", "offline"],
+      "adaptationNote": "Added a comfort-based alternative for text delivery."
+    },
+    {
+      "id": "box-breathing",
+      "title": "Box Breathing",
+      "durationSeconds": 60,
+      "smsText": "Picture a square. Trace one side as you breathe in, pause at the corner, breathe out along the next side, then pause. Keep every breath comfortable.",
+      "tags": ["breathing", "focus", "stress", "offline"]
+    },
+    {
+      "id": "door-reset",
+      "title": "Door Reset",
+      "durationSeconds": 60,
+      "smsText": "As you pass through a doorway, pause. Feel your feet, notice one breath, and enter the next space with a fresh intention.",
+      "tags": ["transition", "grounding", "routine", "offline"]
+    },
+    {
+      "id": "body-scan",
+      "title": "Body Scan",
+      "durationSeconds": 60,
+      "smsText": "With your eyes open or closed, slowly notice your jaw, shoulders, hands, and feet. If you find tension, let it soften only as much as feels comfortable.",
+      "tags": ["body", "tension", "grounding", "offline"]
+    },
+    {
+      "id": "cloud-watching",
+      "title": "Notice Outside",
+      "durationSeconds": 60,
+      "smsText": "If you are somewhere safe, choose a cloud, bird, tree, or another thing around you. Give it your full attention for one minute.",
+      "tags": ["nature", "senses", "grounding", "offline"],
+      "adaptationNote": "Broadened the title while preserving the original observation exercise."
+    },
+    {
+      "id": "mindful-listening",
+      "title": "Mindful Listening",
+      "durationSeconds": 60,
+      "smsText": "Listen closely to music or the sounds around you. Notice one sound near you, one farther away, and one you had not noticed before.",
+      "tags": ["listening", "senses", "focus", "offline"]
+    },
+    {
+      "id": "gratitude",
+      "title": "One Minute of Gratitude",
+      "durationSeconds": 60,
+      "smsText": "Name one person, place, or small moment you appreciate today. Notice why it matters to you and stay with that feeling for one minute.",
+      "tags": ["gratitude", "positive", "connection", "offline"]
+    },
+    {
+      "id": "focus",
+      "title": "One Thing at a Time",
+      "durationSeconds": 60,
+      "smsText": "If you are doing several things at once, pause. Choose one small thing and give it your full attention for the next minute.",
+      "tags": ["focus", "overwhelm", "planning", "offline"]
+    }
+  ]
+}
