@@ -1,0 +1,19 @@
+{
+  "country": "US",
+  "reviewedAt": "2026-10-25",
+  "emergency": {
+    "name": "Emergency services",
+    "phone": "911"
+  },
+  "crisisLine": {
+    "name": "988 Suicide & Crisis Lifeline",
+    "phone": "988",
+    "text": "988",
+    "chatUrl": "https://988lifeline.org/chat/",
+    "websiteUrl": "https://988lifeline.org/"
+  },
+  "source": {
+    "title": "Crisis Help: Suicide, Mental Health, Drug, and Alcohol Issues",
+    "url": "https://www.samhsa.gov/find-support/in-crisis"
+  }
+}

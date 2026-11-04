@@ -1,0 +1,172 @@
+{
+  "schemaVersion": 1,
+  "status": "draft_requires_bfp_review",
+  "registrySource": {
+    "title": "Hack for Social Good - Mindfulness / Resources for LLM",
+    "documentId": "1MtN7N7DsfQUSw86CWsr0n4IhAsZHpp4Qlkhi1GwuCyE",
+    "tabId": "t.3wk2d3dmbxsf",
+    "url": "https://docs.google.com/document/d/1MtN7N7DsfQUSw86CWsr0n4IhAsZHpp4Qlkhi1GwuCyE/edit?tab=t.3wk2d3dmbxsf",
+    "runtimeTreatment": "source_registry_only",
+    "embed": false,
+    "reason": "The tab mixes requirements, user journeys, policies, contact information, and links. Runtime retrieval should use reviewed derived records instead."
+  },
+  "indexPolicy": {
+    "embedOnlyApprovedContent": true,
+    "storeRawPinOrParticipantMessages": false,
+    "chunkByMeaningfulSection": true,
+    "useArbitraryFixedTokenChunks": false,
+    "requireSourceCitation": true,
+    "requiredMetadata": [
+      "sourceId",
+      "sourceTitle",
+      "sourceUrl",
+      "contentType",
+      "language",
+      "audience",
+      "topicTags",
+      "sectionLabel",
+      "approvalStatus",
+      "reviewedAt",
+      "textHash"
+    ],
+    "optionalMetadata": [
+      "pageNumber",
+      "jurisdiction",
+      "serviceArea",
+      "eligibility",
+      "expiresAt",
+      "accessModes"
+    ]
+  },
+  "runtimeNamespaces": [
+    {
+      "id": "mindfulness_practices",
+      "purpose": "Short practices selected by participant context",
+      "retrieval": "structured_tags_first_optional_embeddings"
+    },
+    {
+      "id": "bfp_program_information",
+      "purpose": "Approved information about BFP programs and practices",
+      "retrieval": "metadata_filter_then_semantic_search"
+    },
+    {
+      "id": "community_resources",
+      "purpose": "Reviewed reentry resources with location, eligibility, and contact fields",
+      "retrieval": "structured_filter_then_semantic_search"
+    }
+  ],
+  "sources": [
+    {
+      "id": "official-action-guides",
+      "title": "Official reentry action guides",
+      "url": "https://docs.google.com/document/d/1MtN7N7DsfQUSw86CWsr0n4IhAsZHpp4Qlkhi1GwuCyE/edit?tab=t.3wk2d3dmbxsf",
+      "sourceType": "normalized_json",
+      "language": "en",
+      "handling": "embed_one_complete_procedure_per_record",
+      "embed": true,
+      "namespace": "community_resources",
+      "status": "approved_for_runtime",
+      "derivedArtifact": "content/resource-guides.json",
+      "notes": "Every guide includes a canonical official source URL, review date, aliases, steps, requirements, and notes."
+    },
+    {
+      "id": "boundless-freedom-website",
+      "title": "Boundless Freedom Project website",
+      "url": "https://boundlessfreedom.org/",
+      "sourceType": "website",
+      "language": "en",
+      "handling": "snapshot_approved_pages_then_embed_by_page_section",
+      "embed": true,
+      "namespace": "bfp_program_information",
+      "status": "pending_page_inventory_and_review",
+      "notes": "Keep official contact fields in structured records as well as searchable text."
+    },
+    {
+      "id": "twenty-one-mindfulness-exercises",
+      "title": "21 Mindfulness Exercises.pdf",
+      "url": "https://drive.google.com/file/d/1SjP6GzjpFtS8yHych0zROcXZ8HOn9RWV/view",
+      "sourceType": "pdf",
+      "language": "en",
+      "handling": "one_structured_record_per_practice",
+      "embed": false,
+      "namespace": "mindfulness_practices",
+      "status": "normalized_draft_requires_review",
+      "derivedArtifact": "content/mindfulness-practices.json",
+      "notes": "Use deterministic tags for 21 records; embeddings can be added later if matching quality requires them."
+    },
+    {
+      "id": "buddhist-pathways-english",
+      "title": "Buddhist Pathways Packet (English).pdf",
+      "url": "https://drive.google.com/file/d/1O_Cdu3k-nh1QZoODADB_7EuM4I-Oox9L/view",
+      "sourceType": "pdf",
+      "language": "en",
+      "handling": "review_then_embed_by_heading_or_complete_practice",
+      "embed": true,
+      "namespace": "bfp_program_information",
+      "status": "pending_content_review",
+      "notes": "Do not split a practice's setup, safety language, and steps across chunks."
+    },
+    {
+      "id": "mindful-prisons-class-one-a",
+      "title": "Mindful Prisons - Class 1 part A.docx",
+      "url": "https://docs.google.com/document/d/1tYV6ngIihD7ogHzq6OosNb6xZJn_-xtE/edit",
+      "sourceType": "docx",
+      "language": "en",
+      "handling": "review_then_embed_by_lesson_section_or_complete_practice",
+      "embed": true,
+      "namespace": "bfp_program_information",
+      "status": "pending_content_review",
+      "notes": "Tag facility-specific wording so the text renderer can use an approved community-reentry adaptation."
+    },
+    {
+      "id": "bfp-humanizing-language-card",
+      "title": "BFP Humanizing Language Card.pdf",
+      "url": "https://drive.google.com/file/d/1Ri0Z10EBbGO_rLSQN0umw8VOJVcX1ozs/view",
+      "sourceType": "pdf",
+      "language": "en",
+      "handling": "compile_into_versioned_prompt_policy_and_evaluation_cases",
+      "embed": false,
+      "namespace": null,
+      "status": "pending_policy_extraction",
+      "notes": "This governs all model language; it is not optional retrieved context."
+    },
+    {
+      "id": "thirty-day-reentry-checklist",
+      "title": "30 Day Re-Entry Checklist",
+      "url": "https://docs.google.com/document/d/1ixcygWkefAw-QG8u342k1uoespv_zA-drn9bnAHmu70/edit",
+      "sourceType": "google_doc",
+      "language": "en",
+      "handling": "normalize_into_task_templates_and_team_validated_dependencies",
+      "embed": false,
+      "namespace": null,
+      "status": "pending_dependency_review",
+      "notes": "The source is time-bucketed; prerequisites and priorities must be approved rather than inferred by the LLM."
+    },
+    {
+      "id": "human-handoff-exchange",
+      "title": "Human Handoff Exchange - Optional Feature Details",
+      "url": "https://docs.google.com/document/d/1mWWpM2qhUEqKZgw3un13_wqhTwX2No8L1g4QcOMxlMc/edit",
+      "sourceType": "google_doc",
+      "language": "en",
+      "handling": "compile_into_deterministic_workflow_schema_and_fixed_copy",
+      "embed": false,
+      "namespace": null,
+      "status": "pending_workflow_implementation",
+      "notes": "The LLM may propose a handoff, but it cannot create, assign, close, or promise response timing without server validation."
+    }
+  ],
+  "excludedFromParticipantRetrieval": [
+    {
+      "content": "project brainstorming, unverified statistics, and product ideation in the planning document",
+      "reason": "Not approved participant-facing facts"
+    },
+    {
+      "content": "humanizing-language policy and safety rules",
+      "reason": "Must be applied deterministically to every response, not retrieved opportunistically"
+    },
+    {
+      "content": "checklist status and participant memory",
+      "reason": "Belongs in structured per-participant state, not the shared embedding index"
+    }
+  ]
+}

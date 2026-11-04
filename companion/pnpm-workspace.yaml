@@ -1,0 +1,17 @@
+packages:
+  - "."
+
+allowBuilds:
+  esbuild: true
+
+confirmModulesPurge: false
+
+# Codex's bundled pnpm runs natively on Apple Silicon while this workspace's
+# active Node binary may run as x64. Keep optional native packages for both so
+# Vitest/Rollup and Next work in either process.
+supportedArchitectures:
+  os:
+    - darwin
+  cpu:
+    - arm64
+    - x64
